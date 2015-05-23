@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "FATMIR GJEKA", "Vrsta funkcionera": "Op\u0161tinski funkcioneri", "Godina": "2009", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "MVP - MONETA - ", "Mjese\u010dna plata ": "890 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "PRIHOD OD ZAKUPA - 3000 \u20ac", "Javna funkcija ": "SEKRETAR SEKRETARIJATA ZA FINANSIJE I BUD\u017dET - ULCINJ", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "VO\u0106ARSTVO - 2000 \u20ac", "Adresa": "ULCINJ", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "PMV - AUDI - 2001. GOD  KREDIT 160000 \u20ac", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "ULCINJ, KODRE - PLAC - 417 M2;  ULCINJ, SELIJE - KU\u0106A I DVORI\u0160E - 144 M2;  ULCINJ, SELIJE - PA\u0160NJAK I \u0160UMA - 29000 M2;  ULCINJ, KODRE - KU\u0106A U IZGRADNJI, MAGACINI - 180 M2;", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "650 \u20ac", "Ime bra\u010dnog/vanbra\u010dnog druga ": "ILIRIANA GJEKA", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojg-MjU-PiY5PD4yOA,,&Godina=2009&Rbr=1"}
+{
+    "info": {
+        "Godina": "2009",
+        "Ime i prezime funkcionera ": "FATMIR GJEKA",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Op\u0161tinski funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojg-MjU-PiY5PD4yOA,,&Godina=2009&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "ULCINJ",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "VO\u0106ARSTVO - 2000 \u20ac",
+            "Javna funkcija ": "SEKRETAR SEKRETARIJATA ZA FINANSIJE I BUD\u017dET - ULCINJ",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "890 \u20ac",
+            "Nepokretna imovina ": "ULCINJ, KODRE - PLAC - 417 M2;  ULCINJ, SELIJE - KU\u0106A I DVORI\u0160E - 144 M2;  ULCINJ, SELIJE - PA\u0160NJAK I \u0160UMA - 29000 M2;  ULCINJ, KODRE - KU\u0106A U IZGRADNJI, MAGACINI - 180 M2;",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "MVP - MONETA - ",
+            "Ostali prihodi ": "PRIHOD OD ZAKUPA - 3000 \u20ac",
+            "Pokretna imovina ": "PMV - AUDI - 2001. GOD  KREDIT 160000 \u20ac",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "ILIRIANA GJEKA",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "650 \u20ac",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

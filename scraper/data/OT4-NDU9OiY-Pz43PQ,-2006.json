@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "DR. MILUTIN VUKI\u0106", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2006", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "UMJETNI\u010cKE SLIKE", "Mjese\u010dna plata ": "758,97 EURA", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "POSLANIK U SKUP\u0160TINI RCG", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "CETINJE, NASELJE \"GIPOS\"", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "PUTNI\u010cKO VOZILO GOLF 4, 1998, GOD.", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "180 EURA", "Ime bra\u010dnog/vanbra\u010dnog druga ": "LJUBINKA VUKI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "STAN, CETINJE, 82 M2  STAN, BE\u010cI\u0106I, 45 M2", "Pokretna imovina ": "PUTNI\u010cKO VOZILO LADA SAMARA, 1990, GOD.", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "PUTNI\u010cKO VOZILO GOLF 3, 1993, GOD.", "Ime i prezime Djeteta ": "KSENIJA VUKI\u0106", "Mjese\u00e8na plata ": "175 EURA", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT4-NDU9OiY-Pz43PQ,,&Godina=2006&Rbr=1"}
+{
+    "info": {
+        "Godina": "2006",
+        "Ime i prezime funkcionera ": "DR. MILUTIN VUKI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT4-NDU9OiY-Pz43PQ,,&Godina=2006&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "CETINJE, NASELJE \"GIPOS\"",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "POSLANIK U SKUP\u0160TINI RCG",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "758,97 EURA",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "UMJETNI\u010cKE SLIKE",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO GOLF 4, 1998, GOD.",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "LJUBINKA VUKI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "180 EURA",
+            "Nepokretna imovina ": "STAN, CETINJE, 82 M2  STAN, BE\u010cI\u0106I, 45 M2",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO LADA SAMARA, 1990, GOD.",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "KSENIJA VUKI\u0106",
+            "Mjese\u00e8na plata ": "175 EURA",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO GOLF 3, 1993, GOD.",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

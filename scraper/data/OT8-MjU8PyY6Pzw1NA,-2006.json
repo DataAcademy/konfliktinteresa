@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "MILORAD VULETI\u0106", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2006", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "384 EURA", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "PREDSJEDNIK OP\u0160TINE DANILOVGRAD", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "PODGORICA, KOSOVSKIH JUNAKA 4", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "\u010cLAN UO FONDA ZA OBE\u0160TE\u0106ENJE", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "STAN - 82 M2 ( 1/2 ) - PODGORICA  KU\u0106A - 64 M2 ( 1/3 )- DANILOVGRAD , KUJAVA  ZEMLJI\u0160TE - 3 HA ( 1/3 )- DANILOVGRAD - KUJAVA", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "195 EURA", "Ime bra\u010dnog/vanbra\u010dnog druga ": "SLAVICA VULETI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "STAN - 82 M2 ( 1/2 ) - PODGORICA", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT8-MjU8PyY6Pzw1NA,,&Godina=2006&Rbr=1"}
+{
+    "info": {
+        "Godina": "2006",
+        "Ime i prezime funkcionera ": "MILORAD VULETI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT8-MjU8PyY6Pzw1NA,,&Godina=2006&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "PODGORICA, KOSOVSKIH JUNAKA 4",
+            "Druga javna funkcija ": "\u010cLAN UO FONDA ZA OBE\u0160TE\u0106ENJE",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "PREDSJEDNIK OP\u0160TINE DANILOVGRAD",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "384 EURA",
+            "Nepokretna imovina ": "STAN - 82 M2 ( 1/2 ) - PODGORICA  KU\u0106A - 64 M2 ( 1/3 )- DANILOVGRAD , KUJAVA  ZEMLJI\u0160TE - 3 HA ( 1/3 )- DANILOVGRAD - KUJAVA",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "SLAVICA VULETI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "195 EURA",
+            "Nepokretna imovina ": "STAN - 82 M2 ( 1/2 ) - PODGORICA",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

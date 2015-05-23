@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "OBRAD GOJKOVI\u0106", "Vrsta funkcionera": "Op\u0161tinski funkcioneri", "Godina": "2009", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "850 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "DIREKTOR AGENCIJE ZA GAZDOVANJE GRADSKOM LUKOM - HERCEG NOVI", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "HERCEG NOVI,S. I MA\u0160ERE", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "\u010cLAN UO JP \u010cISTO\u0106A - HERCEG NOVI - NAKNADA JO\u0160 NIJE ODRE\u00d0ENA", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "H. NOVI - POR. KU\u0106A - 300 M2  MORINJ - KU\u0106A NA SELU - 60 M2  KO TOPLA - PARCELA - 500 M2  KO MOKRINE - 45000 M2", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "NESIBA GOJKOVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OTY-MDU_OCY_Pz43PQ,,&Godina=2009&Rbr=1"}
+{
+    "info": {
+        "Godina": "2009",
+        "Ime i prezime funkcionera ": "OBRAD GOJKOVI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Op\u0161tinski funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OTY-MDU_OCY_Pz43PQ,,&Godina=2009&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "HERCEG NOVI,S. I MA\u0160ERE",
+            "Druga javna funkcija ": "\u010cLAN UO JP \u010cISTO\u0106A - HERCEG NOVI - NAKNADA JO\u0160 NIJE ODRE\u00d0ENA",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "DIREKTOR AGENCIJE ZA GAZDOVANJE GRADSKOM LUKOM - HERCEG NOVI",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "850 \u20ac",
+            "Nepokretna imovina ": "H. NOVI - POR. KU\u0106A - 300 M2  MORINJ - KU\u0106A NA SELU - 60 M2  KO TOPLA - PARCELA - 500 M2  KO MOKRINE - 45000 M2",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "NESIBA GOJKOVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

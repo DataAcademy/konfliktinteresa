@@ -1,1 +1,61 @@
-{"info": {"Ime i prezime funkcionera ": "BRANKO RADULOVI\u0106", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2012", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "Institucija: SKUP\u0160TINA CRNE GORE - adresa: PODGORICA visina mjesecne zarade: 1486.30 \u20ac", "Ostala pokretna imovina ": " HARTIJE OD VRIJEDNOSTI - BUDR, EPCG, HLTA, INSM, -vrijednost: / eura", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": " POSLANIK - Postavljena od: SKUP\u0160TINA CRNE GORE - visina mjesecne zarade 1486.30 \u20ac + 225 E (kao dodatak za \u0161efa poslani\u010dkog kluba)", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": " \u010cLAN SENATA PRIJESTOLNICE - Postavljena od: / - visina mjesecne zarade ODREKAO SE U KORIST PARTIJSKOG FONDA ZA POMO\u0106 SOCIJALNO UGRO\u017dENIM", "Pokretna imovina ": " PMV-AUDI A4-2001; PMV-BORA-2001", "Obavljanje drugih djelatnosti ": " UNIVERZITET CG-NAU\u010cNO NASTAVNA DJELATNOST iznos: 264,9 \u20ac eura", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": " STAN-PODGORICA-87 M2-vlasnistvo(100%); KU\u0106A U IZGRADNJI-PODGORICA-450 M2-vlasnistvo(100%); PLAC-PODGORICA-1117 M2-vlasnistvo(100%)", "Krediti, dugovi i potra\u017eivanja ": " KREDIT- iznos duga: 23.688 \u20ac - iznos potrazivanja :/ - rok otplate/naplate: 4 godine; KREDIT- NLB MONTENEGRO BANKA- iznos duga: 41.000 \u20ac - iznos potrazivanja :/ - rok otplate/naplate: 6 godina; KREDIT- CKB (sin Petar)- iznos duga: 55.000 \u20ac - iznos potrazivanja :/ - rok otplate/naplate: 10 godina"}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "NADKA RADULOVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "Institucija: DOO \"ZIDING\" - adresa: BUDVA visina mjesecne zarade: 800 \u20ac", "Nepokretna imovina ": " STAN-BUDVA-58 M2-vlasnistvo(100%)", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": " KREDIT CKB duguje: 55.000 \u20ac-vrijednost: 10 godina eura", "Ostali prihodi ": " Radni odnos: CKB - Podgorica-  visina zarade: 820 \u20ac- u iznosu / eura", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "PETAR RADULOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": " radni odnos: Klini\u010dki centar Crne Gore- Podgorica- visina zarade: 650 \u20ac- u iznosu / eura", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "LJILJANA RADULOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oj8-MTU8OyA-Pz40Ow,,&Godina=2012&Rbr=1"}
+{
+    "info": {
+        "Godina": "2012",
+        "Ime i prezime funkcionera ": "BRANKO RADULOVI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oj8-MTU8OyA-Pz40Ow,,&Godina=2012&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "",
+            "Druga javna funkcija ": " \u010cLAN SENATA PRIJESTOLNICE - Postavljena od: / - visina mjesecne zarade ODREKAO SE U KORIST PARTIJSKOG FONDA ZA POMO\u0106 SOCIJALNO UGRO\u017dENIM",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": " POSLANIK - Postavljena od: SKUP\u0160TINA CRNE GORE - visina mjesecne zarade 1486.30 \u20ac + 225 E (kao dodatak za \u0161efa poslani\u010dkog kluba)",
+            "Krediti, dugovi i potra\u017eivanja ": " KREDIT- iznos duga: 23.688 \u20ac - iznos potrazivanja :/ - rok otplate/naplate: 4 godine; KREDIT- NLB MONTENEGRO BANKA- iznos duga: 41.000 \u20ac - iznos potrazivanja :/ - rok otplate/naplate: 6 godina; KREDIT- CKB (sin Petar)- iznos duga: 55.000 \u20ac - iznos potrazivanja :/ - rok otplate/naplate: 10 godina",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": " STAN-PODGORICA-87 M2-vlasnistvo(100%); KU\u0106A U IZGRADNJI-PODGORICA-450 M2-vlasnistvo(100%); PLAC-PODGORICA-1117 M2-vlasnistvo(100%)",
+            "Obavljanje drugih djelatnosti ": " UNIVERZITET CG-NAU\u010cNO NASTAVNA DJELATNOST iznos: 264,9 \u20ac eura",
+            "Ostala pokretna imovina ": " HARTIJE OD VRIJEDNOSTI - BUDR, EPCG, HLTA, INSM, -vrijednost: / eura",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": " PMV-AUDI A4-2001; PMV-BORA-2001",
+            "Stalni radni odnos ": "Institucija: SKUP\u0160TINA CRNE GORE - adresa: PODGORICA visina mjesecne zarade: 1486.30 \u20ac",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "NADKA RADULOVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": " STAN-BUDVA-58 M2-vlasnistvo(100%)",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "Institucija: DOO \"ZIDING\" - adresa: BUDVA visina mjesecne zarade: 800 \u20ac",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "PETAR RADULOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": " KREDIT CKB duguje: 55.000 \u20ac-vrijednost: 10 godina eura",
+            "Ostali prihodi ": " Radni odnos: CKB - Podgorica-  visina zarade: 820 \u20ac- u iznosu / eura",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "LJILJANA RADULOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": " radni odnos: Klini\u010dki centar Crne Gore- Podgorica- visina zarade: 650 \u20ac- u iznosu / eura",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

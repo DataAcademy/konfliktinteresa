@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "SLAVKO STOJANOVI\u0106", "Vrsta funkcionera": "Vlada", "Godina": "2013", "Naziv izvje\u0161taja": "Na dan stupanja na funkciju"}, "tables": [{"Stalni radni odnos ": "Institucija: MUP - UPRAVA POLICIJE - adresa: PODGORICA visina mjesecne zarade: 1050 \u20ac", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": " VD  DIREKTOR UPRAVE POLICIJE - Postavljena od: MUP - UPRAVA POLICIJE - visina mjesecne zarade /", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": " PREDSJEDNIK UO - Postavljena od: DO AUTO MOTO SAVEZ CG - visina mjesecne zarade 220 \u20ac (28.02.2013 g. potpisana izjava na kojoj se odri\u010de mjese\u010dne nadoknade)", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": " STAN-PODGORICA-89-vlasnistvo(/)", "Krediti, dugovi i potra\u017eivanja ": " KREDIT - PODGORI\u010cKA BANKA- iznos duga: 2 000 - iznos potrazivanja :/ - rok otplate/naplate: 36 MJESECI"}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "LIDIJA STOJANOVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "Institucija: DOO MUNGOS  - adresa: PODGORICA visina mjesecne zarade: 550", "Nepokretna imovina ": "", "Pokretna imovina ": " PMV-KLIO 1.2-2003", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "SARA STOJANOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozc-MDU8MiY6Pz43Ow,,&Godina=2013&Rbr=1"}
+{
+    "info": {
+        "Godina": "2013",
+        "Ime i prezime funkcionera ": "SLAVKO STOJANOVI\u0106",
+        "Naziv izvje\u0161taja": "Na dan stupanja na funkciju",
+        "Vrsta funkcionera": "Vlada"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozc-MDU8MiY6Pz43Ow,,&Godina=2013&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "",
+            "Druga javna funkcija ": " PREDSJEDNIK UO - Postavljena od: DO AUTO MOTO SAVEZ CG - visina mjesecne zarade 220 \u20ac (28.02.2013 g. potpisana izjava na kojoj se odri\u010de mjese\u010dne nadoknade)",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": " VD  DIREKTOR UPRAVE POLICIJE - Postavljena od: MUP - UPRAVA POLICIJE - visina mjesecne zarade /",
+            "Krediti, dugovi i potra\u017eivanja ": " KREDIT - PODGORI\u010cKA BANKA- iznos duga: 2 000 - iznos potrazivanja :/ - rok otplate/naplate: 36 MJESECI",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": " STAN-PODGORICA-89-vlasnistvo(/)",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "Institucija: MUP - UPRAVA POLICIJE - adresa: PODGORICA visina mjesecne zarade: 1050 \u20ac",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "LIDIJA STOJANOVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": " PMV-KLIO 1.2-2003",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "Institucija: DOO MUNGOS  - adresa: PODGORICA visina mjesecne zarade: 550",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "SARA STOJANOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

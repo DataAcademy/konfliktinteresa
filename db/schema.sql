@@ -14,6 +14,7 @@
 create table report (
   report_id integer primary key,
   subject_name text not null,
+  subject_id text not null,
   report_year integer not null,
   report_link text not null,
   report_type_of_function text not null,
@@ -42,6 +43,12 @@ create table report_stanza (
 );
 
 
+create view document_line as
+select * from report 
+  left join report_stanza using (report_id) 
+  left join stanza using (stanza_id) 
+  left join report_line_item using (stanza_id);
+
 -- Natural tables:
 
 create table person (
@@ -49,3 +56,12 @@ create table person (
   person_name text not null
 );
 
+create table job (
+  job_id integer primary key,
+  job_name text not null,
+  person_id integer not null,
+  monthly_salary text,
+  monthly_salary_fixed int,
+  foreign key(person_id) references person(person_id)
+);
+  

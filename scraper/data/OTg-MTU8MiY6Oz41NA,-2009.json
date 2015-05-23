@@ -1,1 +1,71 @@
-{"info": {"Ime i prezime funkcionera ": "MIRA\u0160 RADOVI\u0106", "Vrsta funkcionera": "Vlada", "Godina": "2009", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "VAU\u010cERI - HLT FOND", "Mjese\u010dna plata ": "1 190 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "\u010cLAN SUDSKOG SAVJETA - 500 \u20ac - MJESE\u010cNO; RADU KOMISIJAMA ZA PROVJERU ZNANJA NA DR\u017dAVNOM I PRAVOSUDNOM ISPITU, KOMISIJI ZA OTPUST OSU\u00d0ENIH LICA I U PROJEKTNIM RADNIM TIMOVIMA - 600 \u20ac - MJESE\u010cNO", "Javna funkcija ": "MINISTAR PRAVDE", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "PODGORICA, UL. GAVRA VUKOVI\u0106A C2/10", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "\u010cLAN SUDSKOG SAVJETA", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "STAN - 83 M2 - PODGORICA", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "460 \u20ac", "Ime bra\u010dnog/vanbra\u010dnog druga ": "MIRA RADOVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "VAU\u010cERI - HLT FOND", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "JASNA RADOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "KSENIJA RADOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "MILICA RADOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OTg-MTU8MiY6Oz41NA,,&Godina=2009&Rbr=1"}
+{
+    "info": {
+        "Godina": "2009",
+        "Ime i prezime funkcionera ": "MIRA\u0160 RADOVI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Vlada"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OTg-MTU8MiY6Oz41NA,,&Godina=2009&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "PODGORICA, UL. GAVRA VUKOVI\u0106A C2/10",
+            "Druga javna funkcija ": "\u010cLAN SUDSKOG SAVJETA",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "MINISTAR PRAVDE",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "1 190 \u20ac",
+            "Nepokretna imovina ": "STAN - 83 M2 - PODGORICA",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "VAU\u010cERI - HLT FOND",
+            "Ostali prihodi ": "\u010cLAN SUDSKOG SAVJETA - 500 \u20ac - MJESE\u010cNO; RADU KOMISIJAMA ZA PROVJERU ZNANJA NA DR\u017dAVNOM I PRAVOSUDNOM ISPITU, KOMISIJI ZA OTPUST OSU\u00d0ENIH LICA I U PROJEKTNIM RADNIM TIMOVIMA - 600 \u20ac - MJESE\u010cNO",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "MIRA RADOVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "460 \u20ac",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "VAU\u010cERI - HLT FOND"
+        },
+        {
+            "Ime i prezime Djeteta ": "JASNA RADOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "KSENIJA RADOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "MILICA RADOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

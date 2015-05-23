@@ -1,56 +1,68 @@
 #!/usr/bin/env python
 # -*- coding=utf-8
 
-#from __future__ import unicode
+# from __future__ import unicode
 
 
 
 import os
 import json
+import re
 from sqlite3 import dbapi2 as sqlite
+
 
 def all_json_files():
     dirname = os.path.join(os.path.dirname(__file__), "..", "scraper", "data")
     for filename in os.listdir(dirname):
-        yield os.path.join(dirname, filename)
+        if filename.endswith(".json"):
+            yield os.path.join(dirname, filename)
+
 
 def json_of_path(path):
     with file(path) as f:
         return json.load(f)
+
 
 def normalise_broken_field_name(field_name):
     if field_name == u'Mjeseèna plata':
         field_name = u"Mjesečna plata"
     return field_name
 
+def normalise_spaces(name):
+    name = name.strip()
+    return re.sub(" +", " ", name)
+
 class InfoHeader(object):
     def __init__(self, json_obj):
-        self.name = json_obj["info"]["Ime i prezime funkcionera "]
-        self.report_year = json_obj["info"]["Godina"]
-        self.type_of_fn = json_obj["info"]["Vrsta funkcionera"]
-        self.report_name = json_obj["info"][u"Naziv izvje\u0161taja"]
+        i = json_obj["info"]
+        self.name = normalise_spaces(i["Ime i prezime funkcionera "]).title()
+        self.subject_id = re.match(".*?ID=(.*),.*?", json_obj["link"]).group(1)
+        self.report_year = i["Godina"]
+        self.type_of_fn = i["Vrsta funkcionera"]
+        self.report_name = i[u"Naziv izvje\u0161taja"]
         self.report_link = json_obj["link"]
 
     def __str__(self):
         return "InfoHeader(%s)" % self.name.encode('utf-8')
-    
+
     def save(self, db):
         sql = """
-              INSERT INTO report (subject_name, report_year, report_link,
+              INSERT INTO report (subject_name, subject_id, report_year, report_link,
                                   report_type_of_function, report_name)
-                VALUES (?,?,?,?,?);
+                VALUES (?,?,?,?,?,?);
               """
         c = db.cursor()
-        c.execute(sql, (self.name, self.report_year, self.report_link,
-                  self.type_of_fn, self.report_name))
+        c.execute(sql, (self.name, self.subject_id, self.report_year, self.report_link,
+                        self.type_of_fn, self.report_name))
         c.execute("""SELECT last_insert_rowid();""")
         report_id, = c.fetchone()
         return report_id
 
+
 class Stanza(object):
     def __init__(self, json_dict):
-        self.dict = dict([ (normalise_broken_field_name(k),v) 
-                           for k,v in json_dict.iteritems() ])
+        self.dict = dict([(normalise_broken_field_name(k), v)
+                          for k, v in json_dict.iteritems()])
 
     def save(self, report_id, db):
         c = db.cursor()
@@ -66,21 +78,25 @@ class Stanza(object):
 
         c.execute("""INSERT INTO report_stanza(report_id, stanza_id) VALUES (?,?)""", (report_id, self.seq_id))
 
+
 def get_db_handle():
     path = os.path.join(os.path.dirname(__file__), "..", "db", "report_contents.db")
     return sqlite.connect(path)
+
 
 def run():
     db = get_db_handle()
 
     for filename in all_json_files():
         try:
+            print("Ingesting {}".format(filename))
             j = json_of_path(filename)
-        except ValueError: #hack
+        except ValueError:  # hack
+            print("Could not load {}.".format(filename))
             continue
 
         ih = InfoHeader(j)
-        stanzas = [ Stanza(json_dict) for json_dict in j["tables"] ]
+        stanzas = [Stanza(json_dict) for json_dict in j["tables"]]
 
         report_id = ih.save(db)
 
@@ -89,5 +105,6 @@ def run():
 
     db.commit()
 
+
 if __name__ == '__main__':
-	run()
+    run()

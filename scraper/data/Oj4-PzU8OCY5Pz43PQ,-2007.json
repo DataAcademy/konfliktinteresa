@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "OSMAN SUBA\u0160I\u0106", "Vrsta funkcionera": "Vlada", "Godina": "2007", "Naziv izvje\u0161taja": "Na dan stupanja na funkciju"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "600 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN UPRAVNOG ODBORA - FONDA ZA ZDRAVSTVO PODGORICA", "Ostali prihodi ": "IZD. KU\u0106E U ZAKUP - 5000 \u20ac GOD.", "Javna funkcija ": "POMO\u0106NIK MINISTRA UNUTRA\u0160NJIH POSLOVA ", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "BAR - JOVANA TOMA\u0160EVI\u0106A", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "PMV - GOLF 2 - 1985 G. - 1 200 \u20ac", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "MVP - MONETA", "Nepokretna imovina ": "STAN - BAR - 69 M2  KU\u0106A - ULCINJ - 250 M2 ", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "240 \u20ac", "Ime bra\u010dnog/vanbra\u010dnog druga ": "MILINA  SUBA\u0160I\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "ZAJEDNI\u010cKA POR. IMOVINA SA SUPR.", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "MVP - MONETA", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "PMV - RENAULT CLIO - 1996. G. - 2 000 \u20ac", "Ime i prezime Djeteta ": "MERITA SUBA\u0160I\u0106", "Mjese\u00e8na plata ": "301 \u20ac", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "MVP - MONETA"}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oj4-PzU8OCY5Pz43PQ,,&Godina=2007&Rbr=1"}
+{
+    "info": {
+        "Godina": "2007",
+        "Ime i prezime funkcionera ": "OSMAN SUBA\u0160I\u0106",
+        "Naziv izvje\u0161taja": "Na dan stupanja na funkciju",
+        "Vrsta funkcionera": "Vlada"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oj4-PzU8OCY5Pz43PQ,,&Godina=2007&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "BAR - JOVANA TOMA\u0160EVI\u0106A",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "POMO\u0106NIK MINISTRA UNUTRA\u0160NJIH POSLOVA ",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "600 \u20ac",
+            "Nepokretna imovina ": "STAN - BAR - 69 M2  KU\u0106A - ULCINJ - 250 M2 ",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "IZD. KU\u0106E U ZAKUP - 5000 \u20ac GOD.",
+            "Pokretna imovina ": "PMV - GOLF 2 - 1985 G. - 1 200 \u20ac",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "MVP - MONETA",
+            "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN UPRAVNOG ODBORA - FONDA ZA ZDRAVSTVO PODGORICA"
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "MILINA  SUBA\u0160I\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "240 \u20ac",
+            "Nepokretna imovina ": "ZAJEDNI\u010cKA POR. IMOVINA SA SUPR.",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "MVP - MONETA"
+        },
+        {
+            "Ime i prezime Djeteta ": "MERITA SUBA\u0160I\u0106",
+            "Mjese\u00e8na plata ": "301 \u20ac",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PMV - RENAULT CLIO - 1996. G. - 2 000 \u20ac",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "MVP - MONETA"
+        }
+    ]
+}
