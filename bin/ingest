@@ -16,19 +16,38 @@ def json_of_path(path):
 class InfoHeader(object):
     def __init__(self, json_obj):
         self.name = json_obj["info"]["Ime i prezime funkcionera "]
-        self.year = None
-        self.type_of_fn = None
-        self.report_name = None
+        self.report_year = json_obj["info"]["Godina"]
+        self.type_of_fn = json_obj["info"]["Vrsta funkcionera"]
+        self.report_name = json_obj["info"][u"Naziv izvje\u0161taja"]
+        self.report_link = json_obj["link"]
 
     def __str__(self):
         return "InfoHeader(%s)" % self.name.encode('utf-8')
     
+    def save(self, db):
+        sql = """
+              INSERT INTO report (subject_name, report_year, report_link,
+                                  report_type_of_function, report_name)
+                VALUES (?,?,?,?,?);
+              """
+        c = db.cursor()
+        c.execute(sql, (self.name, self.report_year, self.report_link,
+                  self.type_of_fn, self.report_name))
+        c.execute("""SELECT last_insert_rowid();""")
+        report_id, = c.fetchone()
+        return report_id
 
 class Stanza(object):
     def __init__(self, json_dict):
         self.__dict__ = dict(json_dict)
 
+def get_db_handle():
+    path = os.path.join(os.path.dirname(__file__), "..", "db", "report_contents.db")
+    return sqlite.connect(path)
+
 def run():
+    db = get_db_handle()
+
     for filename in all_json_files():
         try:
             j = json_of_path(filename)
@@ -37,8 +56,10 @@ def run():
 
         ih = InfoHeader(j)
         stanzas = [ Stanza(json_dict) for json_dict in j["tables"] ]
-        link = j["link"]
 
+        report_id = ih.save(db)
+
+    db.commit()
 
 if __name__ == '__main__':
 	run()
