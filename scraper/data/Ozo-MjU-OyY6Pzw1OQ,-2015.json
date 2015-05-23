@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "NIKOLA GEGAJ", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2015", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": " POSLANIK - Postavljena od: SKUP\u0160TINA CG - visina mjesecne zarade 1180 \u20ac", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": " ODBORNIK - Postavljena od: GRADSKA OP\u0160TINA TUZI - visina mjesecne zarade 150 \u20ac; \u010cLAN \u0160KOLSKOG ODBORA - Postavljena od: SREDNJA \u0160KOLA \"25 MAJ\" TUZI - visina mjesecne zarade NEMA PRIMANJA", "Pokretna imovina ": " PMV-D\u017dIP(zamj.za Audi A6-1999g,Audi nije preveden)-2006", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "MARIJA GEGAJ", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "M G", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozo-MjU-OyY6Pzw1OQ,,&Godina=2015&Rbr=1"}
+{
+    "info": {
+        "Godina": "2015",
+        "Ime i prezime funkcionera ": "NIKOLA GEGAJ",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozo-MjU-OyY6Pzw1OQ,,&Godina=2015&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "",
+            "Druga javna funkcija ": " ODBORNIK - Postavljena od: GRADSKA OP\u0160TINA TUZI - visina mjesecne zarade 150 \u20ac; \u010cLAN \u0160KOLSKOG ODBORA - Postavljena od: SREDNJA \u0160KOLA \"25 MAJ\" TUZI - visina mjesecne zarade NEMA PRIMANJA",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": " POSLANIK - Postavljena od: SKUP\u0160TINA CG - visina mjesecne zarade 1180 \u20ac",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": " PMV-D\u017dIP(zamj.za Audi A6-1999g,Audi nije preveden)-2006",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "MARIJA GEGAJ",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "M G",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

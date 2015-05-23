@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "SULJO MUSTAFI\u0106", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2011", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": " POSLANIK - Postavljena od: SKUP\u0160TINA CG - visina mjesecne zarade 1217.67 \u20ac", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": " PREDSJEDNIK - Postavljena od: ISLAMSKA ZAJEDNICA BAR - visina mjesecne zarade BEZ NADOKNADE", "Pokretna imovina ": " PMV-GOLF 4-2000 ", "Obavljanje drugih djelatnosti ": " PREDAVANJE -MEDRESA U PODGORICI-PREDAVA\u010c iznos: 200 \u20ac eura", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": " AD LUKA-Bar- udio: 2000 AKCIJA- Nominalna vrijednost: /- Prenos prava: /", "Nepokretna imovina ": " PLAC-PLAV-200 M2-vlasnistvo(100%)", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "SELVETA MUSTAFI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "ZAHRA MUSTAFI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozc_NjU-OCY5Pz43OA,,&Godina=2011&Rbr=1"}
+{
+    "info": {
+        "Godina": "2011",
+        "Ime i prezime funkcionera ": "SULJO MUSTAFI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozc_NjU-OCY5Pz43OA,,&Godina=2011&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "",
+            "Druga javna funkcija ": " PREDSJEDNIK - Postavljena od: ISLAMSKA ZAJEDNICA BAR - visina mjesecne zarade BEZ NADOKNADE",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": " POSLANIK - Postavljena od: SKUP\u0160TINA CG - visina mjesecne zarade 1217.67 \u20ac",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": " PLAC-PLAV-200 M2-vlasnistvo(100%)",
+            "Obavljanje drugih djelatnosti ": " PREDAVANJE -MEDRESA U PODGORICI-PREDAVA\u010c iznos: 200 \u20ac eura",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": " PMV-GOLF 4-2000 ",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": " AD LUKA-Bar- udio: 2000 AKCIJA- Nominalna vrijednost: /- Prenos prava: /",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "SELVETA MUSTAFI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "ZAHRA MUSTAFI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

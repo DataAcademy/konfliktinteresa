@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "MILOJE PUPOVI\u0106", "Vrsta funkcionera": "Op\u0161tinski funkcioneri", "Godina": "2008", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "U\u0160TE\u00d0EVINA OD TRIDESETOGO\u0160NJIH PLATA", "Mjese\u010dna plata ": "1200 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "ODBORNIK SO PLJEVLJA", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "PRIHOD OD POLJOPRIVREDE - 500 \u20ac GODI\u0160NJE", "Adresa": "PLJEVLJA, ", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "PMV - JUGO - 1500 \u20ac", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "PLJEVLJA - STAN - 87 M2 (VODI SE NA IME SUPRUGE)  PLJEVLJA, OD\u017dAK - KU\u0106A ZA ODMOR - 48 M2  PLJEVLJA - NEPODIJELJENO PORODI\u010cNO IMANJE - OKO 30 HA ", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "500 \u20ac", "Ime bra\u010dnog/vanbra\u010dnog druga ": "DRENA PUPOVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "PLJEVLJA - STAN - 87 M2 -(NAVEDEN I KOD SUPRUGA)", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "ALEKSANDAR PUPOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT8-PzU8OiYyPz43PQ,,&Godina=2008&Rbr=1"}
+{
+    "info": {
+        "Godina": "2008",
+        "Ime i prezime funkcionera ": "MILOJE PUPOVI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Op\u0161tinski funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT8-PzU8OiYyPz43PQ,,&Godina=2008&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "PLJEVLJA, ",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "PRIHOD OD POLJOPRIVREDE - 500 \u20ac GODI\u0160NJE",
+            "Javna funkcija ": "ODBORNIK SO PLJEVLJA",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "1200 \u20ac",
+            "Nepokretna imovina ": "PLJEVLJA - STAN - 87 M2 (VODI SE NA IME SUPRUGE)  PLJEVLJA, OD\u017dAK - KU\u0106A ZA ODMOR - 48 M2  PLJEVLJA - NEPODIJELJENO PORODI\u010cNO IMANJE - OKO 30 HA ",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "U\u0160TE\u00d0EVINA OD TRIDESETOGO\u0160NJIH PLATA",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PMV - JUGO - 1500 \u20ac",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "DRENA PUPOVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "500 \u20ac",
+            "Nepokretna imovina ": "PLJEVLJA - STAN - 87 M2 -(NAVEDEN I KOD SUPRUGA)",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "ALEKSANDAR PUPOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

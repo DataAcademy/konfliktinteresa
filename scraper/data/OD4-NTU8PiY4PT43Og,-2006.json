@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "SVETOZAR MAROVI\u0106", "Vrsta funkcionera": "Vlada", "Godina": "2006", "Naziv izvje\u0161taja": "Na dan stupanja na funkciju"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "UMJETNI\u010cKE SLIKE  BIBLIOTEKA 4200 NASLOVA", "Mjese\u010dna plata ": "797, 65 EURA", "\u010clan organa privrednog dru\u0161tva ": "U BORDU DIREKTORA - HTP BUDVANSKA RIVIJERA", "Ostali prihodi ": "", "Javna funkcija ": "POSLANIK U SKUP\u0160TINI REPUBLIKE CRNE GORE", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "BUDVA, DOSITEJEVA BB", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "AKCIJE ( 110 ) U HTP BUDV. RIVIJERA", "Nepokretna imovina ": "STAN - 82 M2 - BUDVA  KU\u0106A - 112 M2 - SELO KRIMOVICE - GRBALJ  ZEMLJI\u0160TE - 20 500 M2 - SELO KRIMOVICE", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "\u00d0OR\u00d0INA MAROVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "POSLOVNI PROSTOR - 35 M2 - BUDVA", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "PUTNI\u010cKO VOZILO MERCEDES A KLASE - 2004 GOD.", "Ime i prezime Djeteta ": "MILENA  MAROVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OD4-NTU8PiY4PT43Og,,&Godina=2006&Rbr=1"}
+{
+    "info": {
+        "Godina": "2006",
+        "Ime i prezime funkcionera ": "SVETOZAR MAROVI\u0106",
+        "Naziv izvje\u0161taja": "Na dan stupanja na funkciju",
+        "Vrsta funkcionera": "Vlada"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OD4-NTU8PiY4PT43Og,,&Godina=2006&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "BUDVA, DOSITEJEVA BB",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "POSLANIK U SKUP\u0160TINI REPUBLIKE CRNE GORE",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "797, 65 EURA",
+            "Nepokretna imovina ": "STAN - 82 M2 - BUDVA  KU\u0106A - 112 M2 - SELO KRIMOVICE - GRBALJ  ZEMLJI\u0160TE - 20 500 M2 - SELO KRIMOVICE",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "UMJETNI\u010cKE SLIKE  BIBLIOTEKA 4200 NASLOVA",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "AKCIJE ( 110 ) U HTP BUDV. RIVIJERA",
+            "\u010clan organa privrednog dru\u0161tva ": "U BORDU DIREKTORA - HTP BUDVANSKA RIVIJERA"
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "\u00d0OR\u00d0INA MAROVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "POSLOVNI PROSTOR - 35 M2 - BUDVA",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "MILENA  MAROVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO MERCEDES A KLASE - 2004 GOD.",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

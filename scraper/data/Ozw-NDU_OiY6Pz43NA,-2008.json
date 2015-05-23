@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "BRANIMIR GVOZDENOVI\u0106", "Vrsta funkcionera": "Vlada", "Godina": "2008", "Naziv izvje\u0161taja": "Na dan promjene u iznosu ve\u0106em od 2.000 evra"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "MINISTAR MINISTARSTVA ZA EKONOMSKI RAZVOJ CRNE GORE", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "PODGORICA, UL. KARA\u00d0OR\u00d0EVA 18", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "IMOVINA - NEPOKRETNOSTI - NASLEDSTVO - ZAVEDENO KOD UPRAVE ZA NEKRETNINE:1) BR. 574, 104 BAR- SUSVOJINA -1/3; BE. 104, BAR- SUSVOJINA - 1/3; BR. 322, BAR - SUSVOJINA - 1/5; BR. 316, BAR - SUSVOJINA- 1/2; BR. 321, BAR - SUSVOJINA - 1/2; BR. 45, BAR- SVOJINA- 1/1(NAPOMENA; RADI SE O SVOJINI KOJA JE DU\u017dI NIZ GODINA U PORODI\u010cNOM VLASNI\u0160TVU)", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozw-NDU_OiY6Pz43NA,,&Godina=2008&Rbr=2"}
+{
+    "info": {
+        "Godina": "2008",
+        "Ime i prezime funkcionera ": "BRANIMIR GVOZDENOVI\u0106",
+        "Naziv izvje\u0161taja": "Na dan promjene u iznosu ve\u0106em od 2.000 evra",
+        "Vrsta funkcionera": "Vlada"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozw-NDU_OiY6Pz43NA,,&Godina=2008&Rbr=2",
+    "tables": [
+        {
+            "Adresa": "PODGORICA, UL. KARA\u00d0OR\u00d0EVA 18",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "MINISTAR MINISTARSTVA ZA EKONOMSKI RAZVOJ CRNE GORE",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "IMOVINA - NEPOKRETNOSTI - NASLEDSTVO - ZAVEDENO KOD UPRAVE ZA NEKRETNINE:1) BR. 574, 104 BAR- SUSVOJINA -1/3; BE. 104, BAR- SUSVOJINA - 1/3; BR. 322, BAR - SUSVOJINA - 1/5; BR. 316, BAR - SUSVOJINA- 1/2; BR. 321, BAR - SUSVOJINA - 1/2; BR. 45, BAR- SVOJINA- 1/1(NAPOMENA; RADI SE O SVOJINI KOJA JE DU\u017dI NIZ GODINA U PORODI\u010cNOM VLASNI\u0160TVU)",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

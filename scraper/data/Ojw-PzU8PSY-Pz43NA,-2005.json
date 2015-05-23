@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "MIODRAG ILI\u010cKOVI\u0106", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2005", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "STARA DEVIZNA \u0160TEDNJA 14,858 EURA", "Mjese\u010dna plata ": "780 EURA", "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN UO \" LUKA BAR \"", "Ostali prihodi ": "", "Javna funkcija ": "POSLANIK", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "PODGORICA, MALO BRDO BB", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "POSLANIK U SKUP\u0160TINI SCG", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "STAN 84 M2 PODGORICA ; STAN 42 M2 KOTOR - MUO", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "U\u0160TE\u00d0EVINA 8,500 EURA", "Mjese\u010dna plata ": "1,000 EURA UGOVORENA PLATA-POSLOVNA TAJNA", "Ime bra\u010dnog/vanbra\u010dnog druga ": "SLAVICA ILI\u010cKOVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "VOZILO \"RENO MEGAN - SENIC \"", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "MBP PRIVATIZACIONI FOND \" MONETA\" 0,0034 %", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "MILENA ILI\u010cKOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojw-PzU8PSY-Pz43NA,,&Godina=2005&Rbr=1"}
+{
+    "info": {
+        "Godina": "2005",
+        "Ime i prezime funkcionera ": "MIODRAG ILI\u010cKOVI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojw-PzU8PSY-Pz43NA,,&Godina=2005&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "PODGORICA, MALO BRDO BB",
+            "Druga javna funkcija ": "POSLANIK U SKUP\u0160TINI SCG",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "POSLANIK",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "780 EURA",
+            "Nepokretna imovina ": "STAN 84 M2 PODGORICA ; STAN 42 M2 KOTOR - MUO",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "STARA DEVIZNA \u0160TEDNJA 14,858 EURA",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN UO \" LUKA BAR \""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "SLAVICA ILI\u010cKOVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "1,000 EURA UGOVORENA PLATA-POSLOVNA TAJNA",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "U\u0160TE\u00d0EVINA 8,500 EURA",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "VOZILO \"RENO MEGAN - SENIC \"",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "MBP PRIVATIZACIONI FOND \" MONETA\" 0,0034 %"
+        },
+        {
+            "Ime i prezime Djeteta ": "MILENA ILI\u010cKOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "EMIN DURAKOVI\u0106", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2008", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "MVP - JADR. BRODOGR., \u017dELJEZ. NIK\u0160I\u0106  \u0160TEDNJA", "Mjese\u010dna plata ": "823 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "POSLANIK U SKUP\u0160TINI CG", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "POLJP. PROIZVODNJA - 5000 \u20ac GODI\u0160NJE", "Adresa": "BAR, PE\u010cURICE", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "PMV - PASAT 4 - 1997. GOD - 6000 \u20ac", "Obavljanje drugih djelatnosti ": "VOLONTER - NVO MRKOJEVI\u0106I", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "BAR - \u0160UME - 37600 M2          - LIVADE - 2380 M2          - OBRADIVE POVR\u0160INE - 19400 M2         - VO\u0106NJACI - 3700 M2", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojw-MTUxOyY5Pz41NA,,&Godina=2008&Rbr=1"}
+{
+    "info": {
+        "Godina": "2008",
+        "Ime i prezime funkcionera ": "EMIN DURAKOVI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojw-MTUxOyY5Pz41NA,,&Godina=2008&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "BAR, PE\u010cURICE",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "POLJP. PROIZVODNJA - 5000 \u20ac GODI\u0160NJE",
+            "Javna funkcija ": "POSLANIK U SKUP\u0160TINI CG",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "823 \u20ac",
+            "Nepokretna imovina ": "BAR - \u0160UME - 37600 M2          - LIVADE - 2380 M2          - OBRADIVE POVR\u0160INE - 19400 M2         - VO\u0106NJACI - 3700 M2",
+            "Obavljanje drugih djelatnosti ": "VOLONTER - NVO MRKOJEVI\u0106I",
+            "Ostala pokretna imovina ": "MVP - JADR. BRODOGR., \u017dELJEZ. NIK\u0160I\u0106  \u0160TEDNJA",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PMV - PASAT 4 - 1997. GOD - 6000 \u20ac",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}
