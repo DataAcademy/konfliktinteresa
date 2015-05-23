@@ -56,3 +56,12 @@ create table person (
   person_name text not null
 );
 
+create table job (
+  job_id integer primary key,
+  job_name text not null,
+  person_id integer not null,
+  monthly_salary text,
+  monthly_salary_fixed int,
+  foreign key(person_id) references person(person_id)
+);
+  
