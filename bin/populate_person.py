@@ -10,9 +10,10 @@ def populate_person():
     db = get_db_handle()
     c = db.cursor()
 
-    sql_string = """insert into person (person_name) select subject_name from report"""
+    sql_string = """INSERT INTO person (person_name) 
+                      SELECT subject_name FROM report;
+                 """
     c.execute(sql_string)
-
     db.commit()
 
 

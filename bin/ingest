@@ -30,7 +30,7 @@ def json_of_path(path):
 def normalise_broken_field_name(field_name):
     if field_name == u'Mjeseèna plata':
         field_name = u"Mjesečna plata"
-    return field_name
+    return normalise_spaces(field_name)
 
 
 def normalise_spaces(name):
@@ -67,7 +67,7 @@ class InfoHeader(object):
 
 class Stanza(object):
     def __init__(self, json_dict):
-        self.dict = dict([(normalise_broken_field_name(k), v)
+        self.dict = dict([(normalise_broken_field_name(k), normalise_spaces(v))
                           for k, v in json_dict.iteritems()])
 
     def save(self, report_id, db):
