@@ -85,6 +85,7 @@ def run():
 
     for filename in all_json_files():
         try:
+            print("Ingesting {}".format(filename))
             j = json_of_path(filename)
         except ValueError:  # hack
             print("Could not load {}.".format(filename))
