@@ -9,7 +9,8 @@ create table report (
 );
 
 create table stanza (
-  stanza_id integer primary key
+  stanza_id integer primary key,
+  pointless text
 );
 
 create table report_line_item (
