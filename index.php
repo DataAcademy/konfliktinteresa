@@ -1,21 +1,21 @@
 <?php
-   class MyDB extends SQLite3
-   {
-      function __construct()
-      {
-         $this->open('db/report_contents.db');
-      }
-   }
-   $db = new MyDB();
-   if(!$db){
-      echo $db->lastErrorMsg();
-   }
-   
-   
- 	 $statement = $db->prepare('SELECT distinct(subject_id),subject_name FROM report');		 
+  class MyDB extends SQLite3 {
+	  function __construct() {
+	  	$this->open('db/report_contents.db');
+	  }
+  }
+  
+  $db = new MyDB();
+  if(!$db){
+  	echo $db->lastErrorMsg();
+  }
+  
+//  fetch all people 
+ 	$people = $db->prepare('SELECT distinct(subject_id),subject_name FROM report');		 
 
-//   pull person names
-//   select distinct(subject_id), subject_name from report
+//	show person report
+
+	$subject_id = $_GET['person'];
 ?>
 
 
@@ -24,21 +24,20 @@
 <head>
 <meta charset="utf-8" />
 <title></title>
+<link href="style.css" media="all" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 
-<form action="" method="GET">
-<select>
-	<?php 
-		$results = $statement->execute();
+<form action="index.php?person=$subject_id" method="GET">
+<select name="person">
+	<?php
+		$person = $people->execute();
 	
-		while ($row = $results->fetchArray()) {
+		while ($row = $person->fetchArray()) {
 			echo '<option value="'.$row['subject_id'].'">' . $row['subject_name'] . '</option>';
 		}
 
 	?>
-	
-	<option value=""></option>
 </select>
 
 <input type="submit">
