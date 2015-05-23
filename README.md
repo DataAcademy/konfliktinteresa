@@ -30,3 +30,5 @@ bin/ingest
 
 Have fun!
 
+You might want to check out the following [google
+doc](https://docs.google.com/document/d/1dQkW0dJyh2BMNrJS_DjPElNIVjy36ih8vpdOAi_fyBQ/edit#heading=h.l0ljwpnglhrp)
