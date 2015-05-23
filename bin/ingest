@@ -13,7 +13,8 @@ from sqlite3 import dbapi2 as sqlite
 def all_json_files():
     dirname = os.path.join(os.path.dirname(__file__), "..", "scraper", "data")
     for filename in os.listdir(dirname):
-        yield os.path.join(dirname, filename)
+        if filename.endswith(".json"):
+            yield os.path.join(dirname, filename)
 
 def json_of_path(path):
     with file(path) as f:
@@ -51,7 +52,7 @@ class InfoHeader(object):
 
 class Stanza(object):
     def __init__(self, json_dict):
-        self.dict = dict([ (normalise_broken_field_name(k),v) 
+        self.dict = dict([ (normalise_broken_field_name(k),v)
                            for k,v in json_dict.iteritems() ])
 
     def save(self, report_id, db):
@@ -79,6 +80,7 @@ def run():
         try:
             j = json_of_path(filename)
         except ValueError: #hack
+            print("Could not load {}.".format(filename))
             continue
 
         ih = InfoHeader(j)
