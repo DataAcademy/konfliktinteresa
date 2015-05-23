@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "NIKOLA GEGAJ", "Vrsta funkcionera": "Op\u0161tinski funkcioneri", "Godina": "2009", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "730 \u20ac + 108 \u20ac KAO PREDSJEDNIK UO", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "PREDSJEDNIK UO KIC \"MALESIJA\" TUZI", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "TUZI", "Mjese\u010dna nadoknada ": "760 \u20ac", "Druga javna funkcija ": "\u010cLAN NADZORNOG ODBORA GRADSKOG STADIONA (2005-2009)", "Pokretna imovina ": "MVP - MERCEDES - 2002. GOD - ZAMIJENJEN ZA AUDI 6", "Obavljanje drugih djelatnosti ": "SEKRETAR DPS-A PODGORICA", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "MARIJA LJUCOVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "MONIKA GEGAJ", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozo-MjU-OyY6Pzw1OQ,,&Godina=2009&Rbr=1"}
+{
+    "info": {
+        "Godina": "2009",
+        "Ime i prezime funkcionera ": "NIKOLA GEGAJ",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Op\u0161tinski funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozo-MjU-OyY6Pzw1OQ,,&Godina=2009&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "TUZI",
+            "Druga javna funkcija ": "\u010cLAN NADZORNOG ODBORA GRADSKOG STADIONA (2005-2009)",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "PREDSJEDNIK UO KIC \"MALESIJA\" TUZI",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "760 \u20ac",
+            "Mjese\u010dna plata ": "730 \u20ac + 108 \u20ac KAO PREDSJEDNIK UO",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "SEKRETAR DPS-A PODGORICA",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "MVP - MERCEDES - 2002. GOD - ZAMIJENJEN ZA AUDI 6",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "MARIJA LJUCOVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "MONIKA GEGAJ",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

@@ -43,6 +43,12 @@ create table report_stanza (
 );
 
 
+create view document_line as
+select * from report 
+  left join report_stanza using (report_id) 
+  left join stanza using (stanza_id) 
+  left join report_line_item using (stanza_id);
+
 -- Natural tables:
 
 create table person (

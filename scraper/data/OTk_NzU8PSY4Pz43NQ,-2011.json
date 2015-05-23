@@ -1,1 +1,71 @@
-{"info": {"Ime i prezime funkcionera ": "ANDRIJA LOMPAR", "Vrsta funkcionera": "Vlada", "Godina": "2011", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "Institucija: MINISTARSTVO POMORSTVA I SAOBRA\u0106AJA  - adresa: PODGORICA visina mjesecne zarade: 1055", "Ostala pokretna imovina ": " BANKA - NOVAC-vrijednost: 3800 eura", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": " PRIHOD ZA RAD U TENDERSKOJ KOMISIJI- u iznosu 7000 eura", "Javna funkcija ": " MINISTAR POMORSTVA I SAOBRA\u0106AJA  - Postavljena od: VLADA CRNE GORE - visina mjesecne zarade 1055", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": " PMV-PEUGEOT 206-2001", "Obavljanje drugih djelatnosti ": " FAKULTET ZA POMORSTVO-PREDAVA\u010c iznos: 230 eura; FAKULTET ZA MEDITERANSKE STUDIJE-PREDAVA\u010c iznos: 105 eura; VLADA CG-U\u010cE\u0160\u0106E U SAVJ. ZA PRIVATIZACIJU iznos: 100 eura; VLADA CG-BONUS NA RADNO MJESTO iznos: 900 eura", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": " JADRANSKO BRODOGRADILI\u0160TE-Herceg Novi- udio: 0,001 %- Nominalna vrijednost: /- Prenos prava: VAU\u010cER", "Nepokretna imovina ": " KU\u0106A-DOBROTA, KOTOR-160-vlasnistvo(100%)", "Krediti, dugovi i potra\u017eivanja ": " STAMBENI KREDIZ IZ 2005 GOD. (20000)- iznos duga: 7500 - iznos potrazivanja :/ - rok otplate/naplate: /"}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "BORKA  LOMPAR", "Ostali prihodi ": "", "Stalni radni odnos ": "Institucija: PRVA BANKA - adresa: KOTOR visina mjesecne zarade: 700", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": " JADRANSKO BRODOGRADILI\u0160TE-Herceg Novi- udio: 0,001%- Nominalna vrijednost: /- Prenos prava: VAU\u010cER", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "BOGDAN LOMPAR", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "DIMITRIJE LOMPAR", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "DIJANA LOMPAR", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OTk_NzU8PSY4Pz43NQ,,&Godina=2011&Rbr=1"}
+{
+    "info": {
+        "Godina": "2011",
+        "Ime i prezime funkcionera ": "ANDRIJA LOMPAR",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Vlada"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OTk_NzU8PSY4Pz43NQ,,&Godina=2011&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": " MINISTAR POMORSTVA I SAOBRA\u0106AJA  - Postavljena od: VLADA CRNE GORE - visina mjesecne zarade 1055",
+            "Krediti, dugovi i potra\u017eivanja ": " STAMBENI KREDIZ IZ 2005 GOD. (20000)- iznos duga: 7500 - iznos potrazivanja :/ - rok otplate/naplate: /",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": " KU\u0106A-DOBROTA, KOTOR-160-vlasnistvo(100%)",
+            "Obavljanje drugih djelatnosti ": " FAKULTET ZA POMORSTVO-PREDAVA\u010c iznos: 230 eura; FAKULTET ZA MEDITERANSKE STUDIJE-PREDAVA\u010c iznos: 105 eura; VLADA CG-U\u010cE\u0160\u0106E U SAVJ. ZA PRIVATIZACIJU iznos: 100 eura; VLADA CG-BONUS NA RADNO MJESTO iznos: 900 eura",
+            "Ostala pokretna imovina ": " BANKA - NOVAC-vrijednost: 3800 eura",
+            "Ostali prihodi ": " PRIHOD ZA RAD U TENDERSKOJ KOMISIJI- u iznosu 7000 eura",
+            "Pokretna imovina ": " PMV-PEUGEOT 206-2001",
+            "Stalni radni odnos ": "Institucija: MINISTARSTVO POMORSTVA I SAOBRA\u0106AJA  - adresa: PODGORICA visina mjesecne zarade: 1055",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": " JADRANSKO BRODOGRADILI\u0160TE-Herceg Novi- udio: 0,001 %- Nominalna vrijednost: /- Prenos prava: VAU\u010cER",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "BORKA  LOMPAR",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "Institucija: PRVA BANKA - adresa: KOTOR visina mjesecne zarade: 700",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": " JADRANSKO BRODOGRADILI\u0160TE-Herceg Novi- udio: 0,001%- Nominalna vrijednost: /- Prenos prava: VAU\u010cER"
+        },
+        {
+            "Ime i prezime Djeteta ": "BOGDAN LOMPAR",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "DIMITRIJE LOMPAR",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "DIJANA LOMPAR",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

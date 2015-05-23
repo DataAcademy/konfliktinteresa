@@ -1,1 +1,61 @@
-{"info": {"Ime i prezime funkcionera ": "MILOJE DROBNJAK", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2007", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "862 EURA", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "POSLANIK U SKUP\u0160TINI RCG", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "BIJELO POLJE, TR\u0160OVA BB", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "ODBORNIK SO BIJELO POLJE", "Pokretna imovina ": "PUTNI\u010cKO VOZILO RENO TVINGO - 2003 GOD.", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "STAN - 88 M2 (50 %)- BIJELO POLJE", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "212 EURA (PENZIJA)", "Ime bra\u010dnog/vanbra\u010dnog druga ": "VERICA DROBNJAK", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "STAN - 88 M2 (50 %)- B. POLJE", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "PUTNI\u010cKO VOZILO OPEL KORSA  - 1999  GOD.", "Ime i prezime Djeteta ": "VUKO DROBNJAK", "Mjese\u00e8na plata ": "302 EURA", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "DARIJA DROBNJAK", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "STAN - POTKROVLJE - 76 M2 - PODGORICA", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OTw-NzU9PSYzPz43NQ,,&Godina=2007&Rbr=1"}
+{
+    "info": {
+        "Godina": "2007",
+        "Ime i prezime funkcionera ": "MILOJE DROBNJAK",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OTw-NzU9PSYzPz43NQ,,&Godina=2007&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "BIJELO POLJE, TR\u0160OVA BB",
+            "Druga javna funkcija ": "ODBORNIK SO BIJELO POLJE",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "POSLANIK U SKUP\u0160TINI RCG",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "862 EURA",
+            "Nepokretna imovina ": "STAN - 88 M2 (50 %)- BIJELO POLJE",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO RENO TVINGO - 2003 GOD.",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "VERICA DROBNJAK",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "212 EURA (PENZIJA)",
+            "Nepokretna imovina ": "STAN - 88 M2 (50 %)- B. POLJE",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "VUKO DROBNJAK",
+            "Mjese\u00e8na plata ": "302 EURA",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO OPEL KORSA  - 1999  GOD.",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "DARIJA DROBNJAK",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "STAN - POTKROVLJE - 76 M2 - PODGORICA",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

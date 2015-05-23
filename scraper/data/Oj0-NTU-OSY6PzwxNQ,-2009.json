@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "PREDRAG BO\u0160KOVI\u0106", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2009", "Naziv izvje\u0161taja": "Po prestanku funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "U\u0160TE\u00d0EVINA - 60000 \u20ac", "Mjese\u010dna plata ": "2200 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN ODBORA DIREKTORA RUDNIKA UGLJA PLJEVLJA", "Ostali prihodi ": "SAVJET ZA PRIVATIZACIJU - OD JULA - 300 \u20ac MJESE\u010cNO", "Javna funkcija ": "POSLANIK U SKUP\u0160TINI CG", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "PODGORICA, V. RAI\u010cKOVI\u0106A", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "\u010cLAN SAVJETA ZA PRIVATIZACIJU (OD JULA 2009. GODINE)", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "ASISTENT NA EKONOMSKOM FAKULTETU PG", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "PODGORICA - \"GEMON\" - 1/3 - NEMA PRAVO UPRAVLJANJA", "Nepokretna imovina ": "PODGORICA - STAN - 63 M2 - KREDIT 60000 \u20ac", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "5 VAU\u010cERA HLT FONDA", "Mjese\u010dna plata ": "3500 \u20ac", "Ime bra\u010dnog/vanbra\u010dnog druga ": "STELA BO\u0160KOVI\u0106", "Ostali prihodi ": "PO OSNOVU LIKVIDACIONOG ODBORA EKOS BANKE - \u010cLAN - 228 \u20ac MJESE\u010cNO", "Stalni radni odnos ": "", "Nepokretna imovina ": "PODGORICA - STAN - 137 M2 - HIPOTEKA, KREDIT ZA STAN - 100000 \u20ac", "Pokretna imovina ": "PMV - MERCEDES - 2008. GOD - KREDIT - 32000 \u20ac", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oj0-NTU-OSY6PzwxNQ,,&Godina=2009&Rbr=2"}
+{
+    "info": {
+        "Godina": "2009",
+        "Ime i prezime funkcionera ": "PREDRAG BO\u0160KOVI\u0106",
+        "Naziv izvje\u0161taja": "Po prestanku funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oj0-NTU-OSY6PzwxNQ,,&Godina=2009&Rbr=2",
+    "tables": [
+        {
+            "Adresa": "PODGORICA, V. RAI\u010cKOVI\u0106A",
+            "Druga javna funkcija ": "\u010cLAN SAVJETA ZA PRIVATIZACIJU (OD JULA 2009. GODINE)",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "POSLANIK U SKUP\u0160TINI CG",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "2200 \u20ac",
+            "Nepokretna imovina ": "PODGORICA - STAN - 63 M2 - KREDIT 60000 \u20ac",
+            "Obavljanje drugih djelatnosti ": "ASISTENT NA EKONOMSKOM FAKULTETU PG",
+            "Ostala pokretna imovina ": "U\u0160TE\u00d0EVINA - 60000 \u20ac",
+            "Ostali prihodi ": "SAVJET ZA PRIVATIZACIJU - OD JULA - 300 \u20ac MJESE\u010cNO",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "PODGORICA - \"GEMON\" - 1/3 - NEMA PRAVO UPRAVLJANJA",
+            "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN ODBORA DIREKTORA RUDNIKA UGLJA PLJEVLJA"
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "STELA BO\u0160KOVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "3500 \u20ac",
+            "Nepokretna imovina ": "PODGORICA - STAN - 137 M2 - HIPOTEKA, KREDIT ZA STAN - 100000 \u20ac",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "5 VAU\u010cERA HLT FONDA",
+            "Ostali prihodi ": "PO OSNOVU LIKVIDACIONOG ODBORA EKOS BANKE - \u010cLAN - 228 \u20ac MJESE\u010cNO",
+            "Pokretna imovina ": "PMV - MERCEDES - 2008. GOD - KREDIT - 32000 \u20ac",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}
