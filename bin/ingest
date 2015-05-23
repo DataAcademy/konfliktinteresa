@@ -71,8 +71,13 @@ class Stanza(object):
         self.seq_id = c.fetchone()[0]
 
         for k, v in self.dict.iteritems():
+            k_clean = k.strip()
+            v_clean = v.strip()
+            if len(v_clean) == 0:
+                v_clean = None
+
             c.execute("""INSERT INTO report_line_item (stanza_id, line_key,
-                         line_value) VALUES (?,?,?);""", (self.seq_id, k.strip(), v))
+                         line_value) VALUES (?,?,?);""", (self.seq_id, k_clean, v_clean))
 
         c.execute("""INSERT INTO report_stanza(report_id, stanza_id) VALUES (?,?)""", (report_id, self.seq_id))
 
