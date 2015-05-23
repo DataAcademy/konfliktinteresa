@@ -1,4 +1,16 @@
 
+-- There are two parts to the database
+--
+-- The first part is a fairly faithful representation of the dataset, as
+-- extracted from the documents on the official website
+
+-- The second part of the database repeats this data, but organises it
+-- according to natural relationships, independent of how the original
+-- documents were organised
+
+
+-- Document-oriented tables:
+
 create table report (
   report_id integer primary key,
   subject_name text not null,
@@ -29,3 +41,12 @@ create table report_stanza (
   foreign key(report_id) references report(report_id),
   foreign key(stanza_id) references stanza(stanza_id)
 );
+
+
+-- Natural tables:
+
+create table person (
+  person_id integer primary key,
+  person_name text not null
+);
+
