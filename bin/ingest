@@ -1,0 +1,44 @@
+#!/usr/bin/env python
+
+import os
+import json
+from sqlite3 import dbapi2 as sqlite
+
+def all_json_files():
+    dirname = os.path.join(os.path.dirname(__file__), "..", "scraper", "data")
+    for filename in os.listdir(dirname):
+        yield os.path.join(dirname, filename)
+
+def json_of_path(path):
+    with file(path) as f:
+        return json.load(f)
+
+class InfoHeader(object):
+    def __init__(self, json_obj):
+        self.name = json_obj["info"]["Ime i prezime funkcionera "]
+        self.year = None
+        self.type_of_fn = None
+        self.report_name = None
+
+    def __str__(self):
+        return "InfoHeader(%s)" % self.name.encode('utf-8')
+    
+
+class Stanza(object):
+    def __init__(self, json_dict):
+        self.__dict__ = dict(json_dict)
+
+def run():
+    for filename in all_json_files():
+        try:
+            j = json_of_path(filename)
+        except ValueError: #hack
+            continue
+
+        ih = InfoHeader(j)
+        stanzas = [ Stanza(json_dict) for json_dict in j["tables"] ]
+        link = j["link"]
+
+
+if __name__ == '__main__':
+	run()
