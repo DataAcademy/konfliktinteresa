@@ -28,14 +28,18 @@ def normalise_broken_field_name(field_name):
         field_name = u"Mjesečna plata"
     return field_name
 
+def normalise_spaces(name):
+    name = name.strip()
+    return re.sub(" +", " ", name)
 
 class InfoHeader(object):
     def __init__(self, json_obj):
-        self.name = json_obj["info"]["Ime i prezime funkcionera "]
+        i = json_obj["info"]
+        self.name = i["Ime i prezime funkcionera "]
         self.subject_id = re.match(".*?ID=(.*),.*?", json_obj["link"]).group(1)
-        self.report_year = json_obj["info"]["Godina"]
-        self.type_of_fn = json_obj["info"]["Vrsta funkcionera"]
-        self.report_name = json_obj["info"][u"Naziv izvje\u0161taja"]
+        self.report_year = i["Godina"]
+        self.type_of_fn = i["Vrsta funkcionera"]
+        self.report_name = i[u"Naziv izvje\u0161taja"]
         self.report_link = json_obj["link"]
 
     def __str__(self):
