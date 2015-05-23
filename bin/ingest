@@ -50,7 +50,8 @@ class Stanza(object):
         self.seq_id = c.fetchone()[0]
 
         for k, v in self.dict.iteritems():
-            c.execute("""INSERT INTO report_line_item (stanza_id, line_key, line_value) VALUES (?,?,?);""", (self.seq_id, k, v))
+            c.execute("""INSERT INTO report_line_item (stanza_id, line_key,
+                         line_value) VALUES (?,?,?);""", (self.seq_id, k.strip(), v))
 
         c.execute("""INSERT INTO report_stanza(report_id, stanza_id) VALUES (?,?)""", (report_id, self.seq_id))
 
