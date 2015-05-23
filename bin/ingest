@@ -7,7 +7,13 @@
 import os
 import json
 import re
-from database import *
+from sqlite3 import dbapi2 as sqlite
+# from database import *
+
+def get_db_handle():
+    path = os.path.join(os.path.dirname(__file__), "..", "db", "report_contents.db")
+    return sqlite.connect(path)
+
 
 def all_json_files():
     dirname = os.path.join(os.path.dirname(__file__), "..", "scraper", "data")
@@ -26,9 +32,11 @@ def normalise_broken_field_name(field_name):
         field_name = u"Mjesečna plata"
     return field_name
 
+
 def normalise_spaces(name):
     name = name.strip()
     return re.sub(" +", " ", name)
+
 
 class InfoHeader(object):
     def __init__(self, json_obj):
@@ -87,7 +95,7 @@ def run():
 
     for filename in all_json_files():
         try:
-            #print("Ingesting {}".format(filename))
+            # print("Ingesting {}".format(filename))
             j = json_of_path(filename)
         except ValueError:  # hack
             print("Could not load {}.".format(filename))
