@@ -11,3 +11,6 @@ def populate_person():
     db.commit()
 
 
+if __name__ == '__main__':
+    populate_person()
+
