@@ -39,7 +39,7 @@ class InfoHeader(object):
 
 class Stanza(object):
     def __init__(self, json_dict):
-        self.__dict__ = dict(json_dict)
+        self.dict = dict(json_dict)
 
     def save(self, report_id, db):
         c = db.cursor()
@@ -49,7 +49,7 @@ class Stanza(object):
         c.execute("SELECT last_insert_rowid();")
         self.seq_id = c.fetchone()[0]
 
-        for k, v in self.__dict__.iteritems():
+        for k, v in self.dict.iteritems():
             c.execute("""INSERT INTO report_line_item (stanza_id, line_key, line_value) VALUES (?,?,?);""", (self.seq_id, k, v))
 
         c.execute("""INSERT INTO report_stanza(report_id, stanza_id) VALUES (?,?)""", (report_id, self.seq_id))
