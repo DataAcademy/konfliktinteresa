@@ -2,6 +2,7 @@
 create table report (
   report_id integer primary key,
   subject_name text not null,
+  subject_id text not null,
   report_year integer not null,
   report_link text not null,
   report_type_of_function text not null,

@@ -2,6 +2,7 @@
 
 import os
 import json
+import re
 from sqlite3 import dbapi2 as sqlite
 
 def all_json_files():
@@ -16,6 +17,7 @@ def json_of_path(path):
 class InfoHeader(object):
     def __init__(self, json_obj):
         self.name = json_obj["info"]["Ime i prezime funkcionera "]
+        self.subject_id=re.match(".*?ID=(.*),.*?",json_obj["link"]).group(1)
         self.report_year = json_obj["info"]["Godina"]
         self.type_of_fn = json_obj["info"]["Vrsta funkcionera"]
         self.report_name = json_obj["info"][u"Naziv izvje\u0161taja"]
@@ -26,12 +28,12 @@ class InfoHeader(object):
     
     def save(self, db):
         sql = """
-              INSERT INTO report (subject_name, report_year, report_link,
+              INSERT INTO report (subject_name, subject_id, report_year, report_link,
                                   report_type_of_function, report_name)
-                VALUES (?,?,?,?,?);
+                VALUES (?,?,?,?,?,?);
               """
         c = db.cursor()
-        c.execute(sql, (self.name, self.report_year, self.report_link,
+        c.execute(sql, (self.name, self.subject_id, self.report_year, self.report_link,
                   self.type_of_fn, self.report_name))
         c.execute("""SELECT last_insert_rowid();""")
         report_id, = c.fetchone()
