@@ -35,13 +35,13 @@ def dotable(r):
             r.xpath(".//tr") if len(j) > 1 ])
     
 def process_entry(l):
-    r = get_root("%s/new/evid_funkc/funkcioneri/%s"%(base,l))
-    data = {"link": "%s/new/evid_funkc/funkcioneri/%s"%(base,l)}
+    full_link = "%s/new/evid_funkc/funkcioneri/%s" % (base, l)
+    r = get_root(full_link)
+    data = {"link": full_link}
     bitable = r.xpath("//table[@class='table']")[0]
     data['info'] = dotable(bitable)
     dtables = r.xpath(".//table[@class='t2 table-striped2']")
-    data['tables'] = [dict(dotable(i)) for i in
-    dtables]
+    data['tables'] = [dict(dotable(i)) for i in dtables]
     with open("data/%s-%s.json"%re.match(
         ".*?ID=(.*),.*?Godina=([0-9]+).*?",l).groups(),"wb") as f:
         json.dump(data,f,ensure_ascii=True,encoding="UTF-8")
