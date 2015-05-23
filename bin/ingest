@@ -4,12 +4,10 @@
 # from __future__ import unicode
 
 
-
 import os
 import json
 import re
-from sqlite3 import dbapi2 as sqlite
-
+from database import *
 
 def all_json_files():
     dirname = os.path.join(os.path.dirname(__file__), "..", "scraper", "data")
@@ -79,17 +77,12 @@ class Stanza(object):
         c.execute("""INSERT INTO report_stanza(report_id, stanza_id) VALUES (?,?)""", (report_id, self.seq_id))
 
 
-def get_db_handle():
-    path = os.path.join(os.path.dirname(__file__), "..", "db", "report_contents.db")
-    return sqlite.connect(path)
-
-
 def run():
     db = get_db_handle()
 
     for filename in all_json_files():
         try:
-            print("Ingesting {}".format(filename))
+            #print("Ingesting {}".format(filename))
             j = json_of_path(filename)
         except ValueError:  # hack
             print("Could not load {}.".format(filename))
