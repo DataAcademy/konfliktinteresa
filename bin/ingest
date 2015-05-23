@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+# -*- coding=utf-8
+
+#from __future__ import unicode
+
+
 
 import os
 import json
@@ -14,6 +19,8 @@ def json_of_path(path):
         return json.load(f)
 
 def normalise_broken_field_name(field_name):
+    if field_name == u'Mjeseèna plata':
+        field_name = u"Mjesečna plata"
     return field_name
 
 class InfoHeader(object):
