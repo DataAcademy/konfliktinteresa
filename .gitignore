@@ -1,3 +1,5 @@
 *.pyc
 venv/
 
+# Since we don't check it in to git (yet?), let's ignore it
+db/report_contents.db
