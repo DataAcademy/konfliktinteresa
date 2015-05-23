@@ -28,3 +28,4 @@ create table report_stanza (
   foreign key(report_id) references report(report_id),
   foreign key(stanza_id) references stanza(stanza_id)
 );
+
