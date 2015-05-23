@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "DR. MILUTIN VUKI\u0106", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2015", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "Institucija: PENZIJA - adresa: / visina mjesecne zarade: 935 \u20ac", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": " ODBORNIK - Postavljena od: SKUP\u0160TINA PRIJESTONICE CETINJE - visina mjesecne zarade 140 \u20ac", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": " ODBOR ZA IZBOR I IMENOVANJA I ODBOR ZA DRU\u0160.DJ.SKUP\u0160TINE CETINJE - Postavljena od: SO CETINJE - visina mjesecne zarade /", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "LJUBINKA VUKI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "Institucija: CENTRALNA BIBLIOTEKA \u0110UR\u0110E CROJEVI\u0106 - adresa: CETINJE visina mjesecne zarade: 394 \u20ac", "Nepokretna imovina ": " STAN-CETINJE-81M2-vlasnistvo(100%); STAN-BUDVA-42M2-vlasnistvo(100%)", "Pokretna imovina ": " PMV-GOLF-1993", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT4-NDU9OiY-Pz43PQ,,&Godina=2015&Rbr=1"}
+{
+    "info": {
+        "Godina": "2015",
+        "Ime i prezime funkcionera ": "DR. MILUTIN VUKI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT4-NDU9OiY-Pz43PQ,,&Godina=2015&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "",
+            "Druga javna funkcija ": " ODBOR ZA IZBOR I IMENOVANJA I ODBOR ZA DRU\u0160.DJ.SKUP\u0160TINE CETINJE - Postavljena od: SO CETINJE - visina mjesecne zarade /",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": " ODBORNIK - Postavljena od: SKUP\u0160TINA PRIJESTONICE CETINJE - visina mjesecne zarade 140 \u20ac",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "Institucija: PENZIJA - adresa: / visina mjesecne zarade: 935 \u20ac",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "LJUBINKA VUKI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": " STAN-CETINJE-81M2-vlasnistvo(100%); STAN-BUDVA-42M2-vlasnistvo(100%)",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": " PMV-GOLF-1993",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "Institucija: CENTRALNA BIBLIOTEKA \u0110UR\u0110E CROJEVI\u0106 - adresa: CETINJE visina mjesecne zarade: 394 \u20ac",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

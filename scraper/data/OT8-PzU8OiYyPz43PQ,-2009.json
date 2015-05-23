@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "MILOJE PUPOVI\u0106", "Vrsta funkcionera": "Op\u0161tinski funkcioneri", "Godina": "2009", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "\u0160TEDNJA", "Mjese\u010dna plata ": "1200 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "ODBORNIK SO PLJEVLJA", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "PRIHOD SA ZEMLJE - 1000 \u20ac", "Adresa": "PLJEVLJA", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "PMV - JUGO - 2002. GOD", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "OD\u017dAK - VIKENDICA + PLAC - 48 M2 + 50 ARI   PLJEVLJA, BOBOVO - 30 HEKTARA NEPODIJELJENOG PORODI\u010cNOG IMANJA", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "700 \u20ac", "Ime bra\u010dnog/vanbra\u010dnog druga ": "DRENA PUPOVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "PLJEVLJA - STAN - 90 M2", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "ALEKSANDAR PUPOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT8-PzU8OiYyPz43PQ,,&Godina=2009&Rbr=1"}
+{
+    "info": {
+        "Godina": "2009",
+        "Ime i prezime funkcionera ": "MILOJE PUPOVI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Op\u0161tinski funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT8-PzU8OiYyPz43PQ,,&Godina=2009&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "PLJEVLJA",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "PRIHOD SA ZEMLJE - 1000 \u20ac",
+            "Javna funkcija ": "ODBORNIK SO PLJEVLJA",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "1200 \u20ac",
+            "Nepokretna imovina ": "OD\u017dAK - VIKENDICA + PLAC - 48 M2 + 50 ARI   PLJEVLJA, BOBOVO - 30 HEKTARA NEPODIJELJENOG PORODI\u010cNOG IMANJA",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "\u0160TEDNJA",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PMV - JUGO - 2002. GOD",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "DRENA PUPOVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "700 \u20ac",
+            "Nepokretna imovina ": "PLJEVLJA - STAN - 90 M2",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "ALEKSANDAR PUPOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

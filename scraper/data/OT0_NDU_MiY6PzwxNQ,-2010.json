@@ -1,1 +1,61 @@
-{"info": {"Ime i prezime funkcionera ": "ALEKSANDAR DAMJANOVI\u0106", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2010", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": " POSLANIK - Postavljena od: SKUP\u0160TINA CRNE GORE - visina mjesecne zarade 1320", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": " STAN-PODGORINA-61 M2-vlasnistvo(100 %)", "Krediti, dugovi i potra\u017eivanja ": " KREDIT- iznos duga: 9 000 - iznos potrazivanja : - rok otplate/naplate: JUN 2012"}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "TAMARA DAMJANOVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "Institucija: OSNOVNA \u0160KOLA \"OKTOIH\" - adresa: PODGORICA visina mjesecne zarade: 430", "Nepokretna imovina ": "", "Pokretna imovina ": " PMV-OPEL ASTRA-1999", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "MILO\u0160 DAMJANOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "DRA\u0160KO DAMJANOVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT0_NDU_MiY6PzwxNQ,,&Godina=2010&Rbr=1"}
+{
+    "info": {
+        "Godina": "2010",
+        "Ime i prezime funkcionera ": "ALEKSANDAR DAMJANOVI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OT0_NDU_MiY6PzwxNQ,,&Godina=2010&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": " POSLANIK - Postavljena od: SKUP\u0160TINA CRNE GORE - visina mjesecne zarade 1320",
+            "Krediti, dugovi i potra\u017eivanja ": " KREDIT- iznos duga: 9 000 - iznos potrazivanja : - rok otplate/naplate: JUN 2012",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": " STAN-PODGORINA-61 M2-vlasnistvo(100 %)",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "TAMARA DAMJANOVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": " PMV-OPEL ASTRA-1999",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "Institucija: OSNOVNA \u0160KOLA \"OKTOIH\" - adresa: PODGORICA visina mjesecne zarade: 430",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "MILO\u0160 DAMJANOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "DRA\u0160KO DAMJANOVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

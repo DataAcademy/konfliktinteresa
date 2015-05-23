@@ -1,1 +1,61 @@
-{"info": {"Ime i prezime funkcionera ": "FATMIR GJEKA", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2012", "Naziv izvje\u0161taja": "Na dan stupanja na funkciju"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": " VAU\u010cER-vrijednost: / eura", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": " KORISNIK POR. NJEMA\u010cKE PENZIJE- u iznosu 300 eura", "Javna funkcija ": " POSLANIK U SKUP\u0160TINI CRNE GORE - Postavljena od: SKUP\u0160TINA CRNE GORE - visina mjesecne zarade /", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": " VO\u0106ARSTVO- u iznosu 2500 eura; ZAKUP - MAGACIN- u iznosu 3000 eura", "Adresa": "", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": " \u010cLAN KOMISIJE - Postavljena od: KOMISIJA ZA PRA\u0106ENJE FISKALNE EGALIZACIJE - visina mjesecne zarade /", "Pokretna imovina ": " PMV-AUDI-2001", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": " PLAC-KODRE-417-vlasnistvo(/); KU\u0106A I DVORI\u0160TE-SELITA - ULCINJ-144-vlasnistvo(/); KU\u0106A-KODRE-180-vlasnistvo(/); MAGACIN-KODRE-150-vlasnistvo(/); PA\u0160NJAK I \u0160UMA-BRAJ\u0160A-20000 M2-vlasnistvo(/); LIVADA-SELITA-9600 M2-vlasnistvo(/)", "Krediti, dugovi i potra\u017eivanja ": " KREDIT- iznos duga: 160000 - iznos potrazivanja :/ - rok otplate/naplate: 30 GODINA"}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "ILIRIANA GJEKA", "Ostali prihodi ": "", "Stalni radni odnos ": "Institucija: OP\u0160TINA ULCINJ - adresa: ULCINJ visina mjesecne zarade: 510 \u20ac", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "ARANAT  GJEKA", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "ARNISA GJEKA", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojg-MjU-PiY5PD4yOA,,&Godina=2012&Rbr=3"}
+{
+    "info": {
+        "Godina": "2012",
+        "Ime i prezime funkcionera ": "FATMIR GJEKA",
+        "Naziv izvje\u0161taja": "Na dan stupanja na funkciju",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojg-MjU-PiY5PD4yOA,,&Godina=2012&Rbr=3",
+    "tables": [
+        {
+            "Adresa": "",
+            "Druga javna funkcija ": " \u010cLAN KOMISIJE - Postavljena od: KOMISIJA ZA PRA\u0106ENJE FISKALNE EGALIZACIJE - visina mjesecne zarade /",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": " VO\u0106ARSTVO- u iznosu 2500 eura; ZAKUP - MAGACIN- u iznosu 3000 eura",
+            "Javna funkcija ": " POSLANIK U SKUP\u0160TINI CRNE GORE - Postavljena od: SKUP\u0160TINA CRNE GORE - visina mjesecne zarade /",
+            "Krediti, dugovi i potra\u017eivanja ": " KREDIT- iznos duga: 160000 - iznos potrazivanja :/ - rok otplate/naplate: 30 GODINA",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": " PLAC-KODRE-417-vlasnistvo(/); KU\u0106A I DVORI\u0160TE-SELITA - ULCINJ-144-vlasnistvo(/); KU\u0106A-KODRE-180-vlasnistvo(/); MAGACIN-KODRE-150-vlasnistvo(/); PA\u0160NJAK I \u0160UMA-BRAJ\u0160A-20000 M2-vlasnistvo(/); LIVADA-SELITA-9600 M2-vlasnistvo(/)",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": " VAU\u010cER-vrijednost: / eura",
+            "Ostali prihodi ": " KORISNIK POR. NJEMA\u010cKE PENZIJE- u iznosu 300 eura",
+            "Pokretna imovina ": " PMV-AUDI-2001",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "ILIRIANA GJEKA",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "Institucija: OP\u0160TINA ULCINJ - adresa: ULCINJ visina mjesecne zarade: 510 \u20ac",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "ARANAT  GJEKA",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "ARNISA GJEKA",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

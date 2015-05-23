@@ -1,1 +1,61 @@
-{"info": {"Ime i prezime funkcionera ": "JUSUF KALAMPEROVI\u0106", "Vrsta funkcionera": "Vlada", "Godina": "2006", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "IZVJESTAN BROJ SLIKA MLA\u00d0IH DOMA\u0106IH AUTORA-5.000 EURA;  \u010cAMAC U SUVLASNI\u0160TVU SA KUMOM - 2000 E;  BIBLIOTEKA ;  U\u0160TE\u00d0EVINA KOD PODGORI\u010cKE BANKE ( 8,000 E )  ", "Mjese\u010dna plata ": "650 EURA", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "MINISTAR UNUTRA\u0160NJIH POSLOVA", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "POLJOPRIVREDA  ( MANDARINE, NARAND\u017dE, MASLINE ) - 4,000 E", "Adresa": "BAR , MAKEDONSKA 5", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "PUTNI\u010cKO VOZILO MERCEDES 250 - 1996 GOD.", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "20 % SUVLASNI\u0160TVA U MALOJ TURISTI\u010cKOJ AGENCIJI U BARU KOJA ZAPO\u0160LJAVA DVA RADNIKA", "Nepokretna imovina ": "VO\u0106NJAK -PA\u0160NJAK ( NASLEDSTVO ) -20,000 M2 - DOBRA VODA - BAR  STAN - 80 M2 - BAR  KU\u0106A - 120 M2 - DOBRA VODA - BAR", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "380 EURA", "Ime bra\u010dnog/vanbra\u010dnog druga ": "DR ANA KALAMPEROVI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "PUTNI\u010cKO VOZILO - PE\u017dO 206- 2003 GOD.", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "ALMA KALAMPEROVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "PUTNI\u010cKO VOZILO - RENO KLIO - 1995 GOD.", "Ime i prezime Djeteta ": "EMIRA KALAMPEROVI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OjY-NzU9PiY5Pz43Og,,&Godina=2006&Rbr=1"}
+{
+    "info": {
+        "Godina": "2006",
+        "Ime i prezime funkcionera ": "JUSUF KALAMPEROVI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Vlada"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OjY-NzU9PiY5Pz43Og,,&Godina=2006&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "BAR , MAKEDONSKA 5",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "POLJOPRIVREDA  ( MANDARINE, NARAND\u017dE, MASLINE ) - 4,000 E",
+            "Javna funkcija ": "MINISTAR UNUTRA\u0160NJIH POSLOVA",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "650 EURA",
+            "Nepokretna imovina ": "VO\u0106NJAK -PA\u0160NJAK ( NASLEDSTVO ) -20,000 M2 - DOBRA VODA - BAR  STAN - 80 M2 - BAR  KU\u0106A - 120 M2 - DOBRA VODA - BAR",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "IZVJESTAN BROJ SLIKA MLA\u00d0IH DOMA\u0106IH AUTORA-5.000 EURA;  \u010cAMAC U SUVLASNI\u0160TVU SA KUMOM - 2000 E;  BIBLIOTEKA ;  U\u0160TE\u00d0EVINA KOD PODGORI\u010cKE BANKE ( 8,000 E )  ",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO MERCEDES 250 - 1996 GOD.",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "20 % SUVLASNI\u0160TVA U MALOJ TURISTI\u010cKOJ AGENCIJI U BARU KOJA ZAPO\u0160LJAVA DVA RADNIKA",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "DR ANA KALAMPEROVI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "380 EURA",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO - PE\u017dO 206- 2003 GOD.",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "ALMA KALAMPEROVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "EMIRA KALAMPEROVI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO - RENO KLIO - 1995 GOD.",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "SA\u0160A V PE\u0160I\u0106", "Vrsta funkcionera": "Op\u0161tinski funkcioneri", "Godina": "2008", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "650 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "KULTURA - JU POLIMSKI MUZEJ", "Ostali prihodi ": "", "Javna funkcija ": "ODBORNIK SO BERANE", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "BERANE, UL. M. ZE\u010cEVI\u0106A 30", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "PMV OPEL KADET 1986 GOD.", "Obavljanje drugih djelatnosti ": "PROSVJETA: O\u0160 VUK KARAD\u017dI\u0106 I SREDNJA MEDICINSKA \u0160KOLA  BERANE", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "AKCIJE - ELEKTROPRIVREDA NIK\u0160I\u0106 (2169)", "Nepokretna imovina ": "STAN - 88 M2 - BERANE; ZEMLJI\u0160TE - 437 M2 - BERANE", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "380 \u20ac", "Ime bra\u010dnog/vanbra\u010dnog druga ": "MARIJANA PE\u0160I\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "ELENA PE\u0160I\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozg_NzU_PCY8PT41NQ,,&Godina=2008&Rbr=1"}
+{
+    "info": {
+        "Godina": "2008",
+        "Ime i prezime funkcionera ": "SA\u0160A V PE\u0160I\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Op\u0161tinski funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozg_NzU_PCY8PT41NQ,,&Godina=2008&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "BERANE, UL. M. ZE\u010cEVI\u0106A 30",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "ODBORNIK SO BERANE",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "650 \u20ac",
+            "Nepokretna imovina ": "STAN - 88 M2 - BERANE; ZEMLJI\u0160TE - 437 M2 - BERANE",
+            "Obavljanje drugih djelatnosti ": "PROSVJETA: O\u0160 VUK KARAD\u017dI\u0106 I SREDNJA MEDICINSKA \u0160KOLA  BERANE",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PMV OPEL KADET 1986 GOD.",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "AKCIJE - ELEKTROPRIVREDA NIK\u0160I\u0106 (2169)",
+            "\u010clan organa privrednog dru\u0161tva ": "KULTURA - JU POLIMSKI MUZEJ"
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "MARIJANA PE\u0160I\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "380 \u20ac",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "ELENA PE\u0160I\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

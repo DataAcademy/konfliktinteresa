@@ -1,1 +1,61 @@
-{"info": {"Ime i prezime funkcionera ": "ZORAN SRZENTI\u0106", "Vrsta funkcionera": "Op\u0161tinski funkcioneri", "Godina": "2007", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "700 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": "ODBORNIK SO BAR", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "BAR, VLADIMIRA ROLOVI\u0106A 44", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "STAN - 58 M2 - BAR", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "450 \u20ac", "Ime bra\u010dnog/vanbra\u010dnog druga ": "SONJA SRZENTI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "KU\u0106A - 110 M2 - JAGODINA", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "MARKO SRZENTI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "VELJKO SRZENTI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oj4-NzU8PyM6Pz8zPQ,,&Godina=2007&Rbr=1"}
+{
+    "info": {
+        "Godina": "2007",
+        "Ime i prezime funkcionera ": "ZORAN SRZENTI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Op\u0161tinski funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oj4-NzU8PyM6Pz8zPQ,,&Godina=2007&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "BAR, VLADIMIRA ROLOVI\u0106A 44",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "ODBORNIK SO BAR",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "700 \u20ac",
+            "Nepokretna imovina ": "STAN - 58 M2 - BAR",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "SONJA SRZENTI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "450 \u20ac",
+            "Nepokretna imovina ": "KU\u0106A - 110 M2 - JAGODINA",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "MARKO SRZENTI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "VELJKO SRZENTI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

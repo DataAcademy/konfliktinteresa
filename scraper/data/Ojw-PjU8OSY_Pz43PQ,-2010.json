@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "ZORAN BO\u0160NJAK", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2010", "Naziv izvje\u0161taja": "Na dan promjene u iznosu ve\u0107em od 5.000 evra"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": " KREDIT  - CKB -vrijednost: 20000 eura", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": " DIREKTOR - Postavljena od: JP REGIONALNI VODOVOD - visina mjesecne zarade ", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "VESNA  BO\u0160NJAK", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "TATJANA BO\u0160NJAK", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojw-PjU8OSY_Pz43PQ,,&Godina=2010&Rbr=2"}
+{
+    "info": {
+        "Godina": "2010",
+        "Ime i prezime funkcionera ": "ZORAN BO\u0160NJAK",
+        "Naziv izvje\u0161taja": "Na dan promjene u iznosu ve\u0107em od 5.000 evra",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojw-PjU8OSY_Pz43PQ,,&Godina=2010&Rbr=2",
+    "tables": [
+        {
+            "Adresa": "",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": " DIREKTOR - Postavljena od: JP REGIONALNI VODOVOD - visina mjesecne zarade ",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": " KREDIT  - CKB -vrijednost: 20000 eura",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "VESNA  BO\u0160NJAK",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "TATJANA BO\u0160NJAK",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

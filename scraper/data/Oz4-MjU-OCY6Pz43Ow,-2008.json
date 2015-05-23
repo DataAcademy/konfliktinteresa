@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "VLADIMIR KAVARI\u0106", "Vrsta funkcionera": "Vladini funkcioneri", "Godina": "2008", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "VAU\u010cERI I AKCIJE (MIG, EPCG, KAP)", "Mjese\u010dna plata ": "SAVJET JO\u0160 NIJE DONIO ODLUKU O NAKNADAMA", "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN BORDA - ZAVOD ZA ZAPO\u0160LJAVANJE", "Ostali prihodi ": "", "Javna funkcija ": "PREDSJEDNIK SAVJETA AGENCIJE ZA NADZOR OSIGURANJA", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "SAVJETNI\u010cKI POSLOVI, HONORARI, RADNA TIJELA, KOMISIJE(VLADA C.G, MIN. FINANSIJA) - 5000 \u20ac", "Adresa": "PODGORICA, UL. MOSKOVSKA 60", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "", "Obavljanje drugih djelatnosti ": "\u010cLAN BORDA - TENISKI SAVEZ", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "STAN - 43 M2 - BAR; STAMBENI PROSTOR U IZGRADNJI- 197 M2-(KREDIT) - PODG.", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "UMJETNI\u010cKE SLIKE; VAU\u010cERI I AKCIJE(TELEKOM, EUROFOND, MONETA, ATLAS, TREBJESA)", "Mjese\u010dna plata ": "414 \u20ac", "Ime bra\u010dnog/vanbra\u010dnog druga ": "TIJANA KAVARI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "STAN - 57 + 25 M2 - PODG.", "Pokretna imovina ": "PMV OPEL KORSA - 1998 GOD.", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oz4-MjU-OCY6Pz43Ow,,&Godina=2008&Rbr=1"}
+{
+    "info": {
+        "Godina": "2008",
+        "Ime i prezime funkcionera ": "VLADIMIR KAVARI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Vladini funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oz4-MjU-OCY6Pz43Ow,,&Godina=2008&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "PODGORICA, UL. MOSKOVSKA 60",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "SAVJETNI\u010cKI POSLOVI, HONORARI, RADNA TIJELA, KOMISIJE(VLADA C.G, MIN. FINANSIJA) - 5000 \u20ac",
+            "Javna funkcija ": "PREDSJEDNIK SAVJETA AGENCIJE ZA NADZOR OSIGURANJA",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "SAVJET JO\u0160 NIJE DONIO ODLUKU O NAKNADAMA",
+            "Nepokretna imovina ": "STAN - 43 M2 - BAR; STAMBENI PROSTOR U IZGRADNJI- 197 M2-(KREDIT) - PODG.",
+            "Obavljanje drugih djelatnosti ": "\u010cLAN BORDA - TENISKI SAVEZ",
+            "Ostala pokretna imovina ": "VAU\u010cERI I AKCIJE (MIG, EPCG, KAP)",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN BORDA - ZAVOD ZA ZAPO\u0160LJAVANJE"
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "TIJANA KAVARI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "414 \u20ac",
+            "Nepokretna imovina ": "STAN - 57 + 25 M2 - PODG.",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "UMJETNI\u010cKE SLIKE; VAU\u010cERI I AKCIJE(TELEKOM, EUROFOND, MONETA, ATLAS, TREBJESA)",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PMV OPEL KORSA - 1998 GOD.",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

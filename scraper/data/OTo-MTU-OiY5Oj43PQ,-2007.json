@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "SNE\u017dANA JONICA", "Vrsta funkcionera": "Op\u0161tinski funkcioneri", "Godina": "2007", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "ODBORNI\u010cKI PAU\u0160AL - 1200 \u20ac(GOD)", "Javna funkcija ": "ODBORNIK SO BAR", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "BAR , RENA BR.3", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "", "Pokretna imovina ": "PMV - SUZUKI SWIFT - 1995 G.", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "ALIMENTACIJA - 372 \u20ac(GOD.)", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "BILJANA MARTINI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OTo-MTU-OiY5Oj43PQ,,&Godina=2007&Rbr=1"}
+{
+    "info": {
+        "Godina": "2007",
+        "Ime i prezime funkcionera ": "SNE\u017dANA JONICA",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Op\u0161tinski funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=OTo-MTU-OiY5Oj43PQ,,&Godina=2007&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "BAR , RENA BR.3",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "ODBORNIK SO BAR",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "ODBORNI\u010cKI PAU\u0160AL - 1200 \u20ac(GOD)",
+            "Pokretna imovina ": "PMV - SUZUKI SWIFT - 1995 G.",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "BILJANA MARTINI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "ALIMENTACIJA - 372 \u20ac(GOD.)",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

@@ -1,1 +1,51 @@
-{"info": {"Ime i prezime funkcionera ": "ZORICA KOVA\u010cEVI\u0106", "Vrsta funkcionera": "Vladini funkcioneri", "Godina": "2007", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "UMJETNI\u010cKE SLIKE  VAU\u010cER U HLT FONDU", "Mjese\u010dna plata ": "541 \u20ac", "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN U. O - JZU OP\u0160TA BOLNICA  - BAR", "Ostali prihodi ": "", "Javna funkcija ": "ODBORNIK U SO DANILOVGRAD", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "DANILOVGRAD, KOSI\u0106", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": "DIREKTOR JZU DOM ZDRAVLJA DANILOVGRAD", "Pokretna imovina ": "PMV - POLO 1997 GOD", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "STAN - 51 M2 - PODGORICA", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oj4-MzU8PSY6Nz40PA,,&Godina=2007&Rbr=1"}
+{
+    "info": {
+        "Godina": "2007",
+        "Ime i prezime funkcionera ": "ZORICA KOVA\u010cEVI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Vladini funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oj4-MzU8PSY6Nz40PA,,&Godina=2007&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "DANILOVGRAD, KOSI\u0106",
+            "Druga javna funkcija ": "DIREKTOR JZU DOM ZDRAVLJA DANILOVGRAD",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "ODBORNIK U SO DANILOVGRAD",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "541 \u20ac",
+            "Nepokretna imovina ": "STAN - 51 M2 - PODGORICA",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "UMJETNI\u010cKE SLIKE  VAU\u010cER U HLT FONDU",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PMV - POLO 1997 GOD",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN U. O - JZU OP\u0160TA BOLNICA  - BAR"
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

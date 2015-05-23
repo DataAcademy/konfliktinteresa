@@ -1,1 +1,61 @@
-{"info": {"Ime i prezime funkcionera ": "ZORAN GOSPI\u0106", "Vrsta funkcionera": "Op\u0161tinski funkcioneri", "Godina": "2006", "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "430 EURA", "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN ODBORA DIREKTORA AD PREHRANA PLJEVLJA", "Ostali prihodi ": "", "Javna funkcija ": "ODBORNIK U SO-E PLJEVLJA", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "PLJEVLJA, 20, NOVEMBAR 30", "Mjese\u010dna nadoknada ": "0", "Druga javna funkcija ": "", "Pokretna imovina ": "PUTNI\u010cKO VOZILO OPEL KADET, 1986, GOD.", "Obavljanje drugih djelatnosti ": "SAVEZNI KARATE SUDIJA; \u010cLAN UO RUKOMETNOG KLUBA PLJEVLJA;", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Nepokretna imovina ": "POSLOVNI PROSTOR, PLJEVLJA, 32,5 M2  PORODI\u010cNA KU\u0106A, 85 M2-1/4", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "U\u0160TE\u00d0EVINA", "Mjese\u010dna plata ": "222 EURA", "Ime bra\u010dnog/vanbra\u010dnog druga ": "NATA\u0160A GOSPI\u0106", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "PUTNI\u010cKO VOZILO RENO CLIO, 1993, GOD", "Prihodi od poljop,slobod i drugih djeltanosti ": "\u010cLAN STRU\u010cNOG TIMA NA LOKALNOM NIVOU U PROGRAMU \"NJEGA STARIH LICA\"- 1500 EURA", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "ANJA GOSPI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "ALEKSA GOSPI\u0106", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojk-NzU_MyYyPz43NA,,&Godina=2006&Rbr=1"}
+{
+    "info": {
+        "Godina": "2006",
+        "Ime i prezime funkcionera ": "ZORAN GOSPI\u0106",
+        "Naziv izvje\u0161taja": "Godi\u0161nji izvje\u0161taj za vrijeme obavljanja funkcije",
+        "Vrsta funkcionera": "Op\u0161tinski funkcioneri"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ojk-NzU_MyYyPz43NA,,&Godina=2006&Rbr=1",
+    "tables": [
+        {
+            "Adresa": "PLJEVLJA, 20, NOVEMBAR 30",
+            "Druga javna funkcija ": "",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": "ODBORNIK U SO-E PLJEVLJA",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "0",
+            "Mjese\u010dna plata ": "430 EURA",
+            "Nepokretna imovina ": "POSLOVNI PROSTOR, PLJEVLJA, 32,5 M2  PORODI\u010cNA KU\u0106A, 85 M2-1/4",
+            "Obavljanje drugih djelatnosti ": "SAVEZNI KARATE SUDIJA; \u010cLAN UO RUKOMETNOG KLUBA PLJEVLJA;",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO OPEL KADET, 1986, GOD.",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": "",
+            "\u010clan organa privrednog dru\u0161tva ": "\u010cLAN ODBORA DIREKTORA AD PREHRANA PLJEVLJA"
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "NATA\u0160A GOSPI\u0106",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna plata ": "222 EURA",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "U\u0160TE\u00d0EVINA",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "PUTNI\u010cKO VOZILO RENO CLIO, 1993, GOD",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "\u010cLAN STRU\u010cNOG TIMA NA LOKALNOM NIVOU U PROGRAMU \"NJEGA STARIH LICA\"- 1500 EURA",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "ANJA GOSPI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "ALEKSA GOSPI\u0106",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}

@@ -1,1 +1,61 @@
-{"info": {"Ime i prezime funkcionera ": "VELJKO ZARUBICA", "Vrsta funkcionera": "Poslanici Crne Gore", "Godina": "2012", "Naziv izvje\u0161taja": "Na dan stupanja na funkciju"}, "tables": [{"Stalni radni odnos ": "", "Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "\u010clan organa privrednog dru\u0161tva ": "", "Ostali prihodi ": "", "Javna funkcija ": " ODBORNIK - Postavljena od: SO NIK\u0160I\u0106 - visina mjesecne zarade 100", "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "", "Adresa": "", "Mjese\u010dna nadoknada ": "", "Druga javna funkcija ": " / - Postavljena od: / - visina mjesecne zarade /; / - Postavljena od: / - visina mjesecne zarade /; / - Postavljena od: / - visina mjesecne zarade /", "Pokretna imovina ": " PMV-FORD ESKORT-1988", "Obavljanje drugih djelatnosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": " BUDVANSKA RIVIJERA-Budva- udio: VAU\u010cER- Nominalna vrijednost: /- Prenos prava: /", "Nepokretna imovina ": " KU\u0106A SA PLACEM-NIK\u0160I\u0106-KU\u0106A -102; GARA\u017dA. 24; PLAC - 490-vlasnistvo(/); STAN-NIK\u0160I\u0106-50 M2-vlasnistvo(/); 1/4 POSJEDA -\u0160AVNIK-PO POSJ. L. 0143/7-vlasnistvo(/)", "Krediti, dugovi i potra\u017eivanja ": ""}, {"Ostala pokretna imovina ": "", "Mjese\u010dna plata ": "", "Ime bra\u010dnog/vanbra\u010dnog druga ": "MILKA ZARUBICA", "Ostali prihodi ": "", "Stalni radni odnos ": "", "Nepokretna imovina ": "", "Pokretna imovina ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": " PIVARA TREBJESA-Nik\u0161i\u0107- udio: 150- Nominalna vrijednost: /- Prenos prava: /", "Obavljanje drugih djelatnosti ": "", "Krediti, dugovi i potra\u017eivanja ": " STAMBENI KREDIT - PRVA B.(kredit podignut na ime rje\u0161avanja stamb. pitanja- od \"Pivare Trebjesa\"- iznos duga: / - iznos potrazivanja :2800 - rok otplate/naplate: 21.08.2016 GOD."}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "RADE ZARUBICA", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}, {"Ostala pokretna imovina ": "", "Ostali prihodi ": "", "Pokretna imovina ": "", "Ime i prezime Djeteta ": "MILICA ZARUBICA", "Mjese\u00e8na plata ": "", "Prihodi od poljop,slobod i drugih djeltanosti ": "", "Nepokretna imovina ": "", "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""}], "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozw-NzU8PiY9Pz43OQ,,&Godina=2012&Rbr=3"}
+{
+    "info": {
+        "Godina": "2012",
+        "Ime i prezime funkcionera ": "VELJKO ZARUBICA",
+        "Naziv izvje\u0161taja": "Na dan stupanja na funkciju",
+        "Vrsta funkcionera": "Poslanici Crne Gore"
+    },
+    "link": "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Ozw-NzU8PiY9Pz43OQ,,&Godina=2012&Rbr=3",
+    "tables": [
+        {
+            "Adresa": "",
+            "Druga javna funkcija ": " / - Postavljena od: / - visina mjesecne zarade /; / - Postavljena od: / - visina mjesecne zarade /; / - Postavljena od: / - visina mjesecne zarade /",
+            "Godi\u0161nji prihod od poljoprivrede i dr. djelatnosti ": "",
+            "Javna funkcija ": " ODBORNIK - Postavljena od: SO NIK\u0160I\u0106 - visina mjesecne zarade 100",
+            "Krediti, dugovi i potra\u017eivanja ": "",
+            "Mjese\u010dna nadoknada ": "",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": " KU\u0106A SA PLACEM-NIK\u0160I\u0106-KU\u0106A -102; GARA\u017dA. 24; PLAC - 490-vlasnistvo(/); STAN-NIK\u0160I\u0106-50 M2-vlasnistvo(/); 1/4 POSJEDA -\u0160AVNIK-PO POSJ. L. 0143/7-vlasnistvo(/)",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": " PMV-FORD ESKORT-1988",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": " BUDVANSKA RIVIJERA-Budva- udio: VAU\u010cER- Nominalna vrijednost: /- Prenos prava: /",
+            "\u010clan organa privrednog dru\u0161tva ": ""
+        },
+        {
+            "Ime bra\u010dnog/vanbra\u010dnog druga ": "MILKA ZARUBICA",
+            "Krediti, dugovi i potra\u017eivanja ": " STAMBENI KREDIT - PRVA B.(kredit podignut na ime rje\u0161avanja stamb. pitanja- od \"Pivare Trebjesa\"- iznos duga: / - iznos potrazivanja :2800 - rok otplate/naplate: 21.08.2016 GOD.",
+            "Mjese\u010dna plata ": "",
+            "Nepokretna imovina ": "",
+            "Obavljanje drugih djelatnosti ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Stalni radni odnos ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": " PIVARA TREBJESA-Nik\u0161i\u0107- udio: 150- Nominalna vrijednost: /- Prenos prava: /"
+        },
+        {
+            "Ime i prezime Djeteta ": "RADE ZARUBICA",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        },
+        {
+            "Ime i prezime Djeteta ": "MILICA ZARUBICA",
+            "Mjese\u00e8na plata ": "",
+            "Nepokretna imovina ": "",
+            "Ostala pokretna imovina ": "",
+            "Ostali prihodi ": "",
+            "Pokretna imovina ": "",
+            "Prihodi od poljop,slobod i drugih djeltanosti ": "",
+            "Vlasni\u0161tvo u privrednim dru\u0161tvima ": ""
+        }
+    ]
+}
