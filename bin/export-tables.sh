@@ -28,7 +28,7 @@ sqlite3 ../db/report_contents.db << EOF
 .mode csv
 .headers on
 .output ../data/raw/job.csv
-SELECT p.person_id,p.person_name,job.report_year,job.job_name,job.monthly_salary FROM job JOIN
+SELECT p.person_id,p.person_name,job.report_year,job.job_name,job.monthly_salary, job.job_id FROM job JOIN
 (select person_id,person_name FROM person) AS p ON p.person_id =
 job.person_id;
 EOF
