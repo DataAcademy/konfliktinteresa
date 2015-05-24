@@ -54,7 +54,9 @@ select * from report
 
 create table person (
   person_id integer primary key,
-  person_name text not null
+  person_name text not null,
+  person_original_id text not null,
+  unique(person_original_id,person_name)
 );
 
 create table job (
