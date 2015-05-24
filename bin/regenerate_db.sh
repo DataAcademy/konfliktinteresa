@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Drop, renerage the DB and ingest the data
+# Drop, regenerate the DB and ingest the data
 bin_dir=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 db_dir=$( cd "${bin_dir}/../db" && pwd )
 
@@ -9,5 +9,6 @@ eval "${db_dir}/generate_db"
 eval "${bin_dir}/ingest"
 eval "${bin_dir}/populate_person.py"
 eval "${bin_dir}/populate_company_ownership.py"
+eval "${bin_dir}/populate_job.py"
 
-echo "Renerated the DB"
+echo "Regenerated the DB"

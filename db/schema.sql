@@ -18,8 +18,7 @@ create table report (
   report_year integer not null,
   report_link text not null,
   report_type_of_function text not null,
-  report_name text not null,
-  unique(subject_id,report_name,report_year)
+  report_name text not null
 );
 
 create table stanza (
@@ -68,7 +67,7 @@ create table job (
   monthly_salary_fixed int,
   foreign key(person_id) references person(person_id)
 );
-
+  
 create table company (
     company_id integer primary key,
     company_name text,
