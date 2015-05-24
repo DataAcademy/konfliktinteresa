@@ -18,7 +18,8 @@ create table report (
   report_year integer not null,
   report_link text not null,
   report_type_of_function text not null,
-  report_name text not null
+  report_name text not null,
+  unique(subject_id,report_name,report_year)
 );
 
 create table stanza (
