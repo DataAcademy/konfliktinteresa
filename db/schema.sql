@@ -66,4 +66,22 @@ create table job (
   monthly_salary_fixed int,
   foreign key(person_id) references person(person_id)
 );
-  
+
+create table company (
+    company_id integer primary key,
+    company_name text,
+    company_city, text,
+    unique(company_name,company_city)
+    );
+
+create table ownership (
+    company_id int,
+    person_id int,
+    year int,
+    shares text,
+    nominal_value text,
+    obtained_through text,
+    foreign key(person_id) references person(person_id),
+    foreign key(company_id) references company(company_id),
+    unique(company_id,person_id,year)
+    );
