@@ -9,12 +9,7 @@ import json
 import re
 from sqlite3 import dbapi2 as sqlite
 
-# from database import *
-
-def get_db_handle():
-    path = os.path.join(os.path.dirname(__file__), "..", "db", "report_contents.db")
-    return sqlite.connect(path)
-
+from database import *
 
 def all_json_files():
     dirname = os.path.join(os.path.dirname(__file__), "..", "scraper", "data")
