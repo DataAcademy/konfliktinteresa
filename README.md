@@ -66,7 +66,7 @@ Check out all the field types in ```db/schema.sql```.
 
 The .csv files are already created: if you want to re-create the .csv files (because you perhaps want to change the fields that get pulled from the database), do the following: 
 
-```cd``` 
+```cd```
 
 to the working directory. Then, run:
 
