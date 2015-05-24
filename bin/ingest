@@ -8,6 +8,7 @@ import os
 import json
 import re
 from sqlite3 import dbapi2 as sqlite
+
 # from database import *
 
 def get_db_handle():
@@ -100,7 +101,7 @@ def run():
             j = json_of_path(filename)
         except ValueError:  # hack
             print("Could not load {}.".format(filename))
-            continue
+            raise
 
         ih = InfoHeader(j)
         stanzas = [Stanza(json_dict) for json_dict in j["tables"]]
