@@ -9,5 +9,6 @@ eval "${db_dir}/generate_db"
 eval "${bin_dir}/ingest"
 eval "${bin_dir}/populate_person.py"
 eval "${bin_dir}/populate_company_ownership.py"
+eval "${bin_dir}/populate_job.py"
 
 echo "Regenerated the DB"
