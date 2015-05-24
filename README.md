@@ -80,7 +80,7 @@ Then, to create the CSV files, run:
 
 This will re-create the three .csv files inside
 
-```data/raw```
+```data/raw ```
 
 Have fun!
 
