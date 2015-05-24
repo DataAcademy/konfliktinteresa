@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 # Drop, regenerate the DB and ingest the data
-# bin_dir=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
-# db_dir=$( cd "${bin_dir}/../db" && pwd )
+# Tin here: Duplicated the sh file and added direct paths to files, cause original kept failing. Opened issue #1
 
 test -f "../db/report_contents.db" && rm "${db_dir}/report_contents.db"
 eval "../db/generate_db"
