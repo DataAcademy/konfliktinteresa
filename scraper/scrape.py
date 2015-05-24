@@ -11,6 +11,7 @@ start = "http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidencijaFun
 
 listpages = "/new/evid_funkc/funkcioneri/EvidencijaFun.php?pageNum_Recordset1=%s&totalRows_Recordset1=54&txtNaziv=&VR_FUN=%s"
 
+# The following array "funcs" picks the categories of public officials that the scraper is pulling. For example, 3 and 2 pull ministers and parliamentaries. "13" pulls ALL the categories.
 funcs = [3,2]
 
 def get_root(u):
@@ -20,20 +21,20 @@ def get_root(u):
 def get_person_page(fun,i):
     r = get_root("%s%s"%(base,listpages%(i,fun)))
     return r.xpath("//font[@size='2']/a/@href")
-    
+
 def get_persons(fun):
     r = get_root(start%fun)
     nextlink = r.xpath("//img[@src='Next.gif']/../@href")[0]
     totalrows = int(re.match(".*totalRows_Recordset1=([0-9]+).*?"
                              ,nextlink).group(1))
-    return reduce(lambda x,y: x+y, 
+    return reduce(lambda x,y: x+y,
         [get_person_page(fun,i) for i in range(0,totalrows/50+1)],
         [])
 
 def dotable(r):
     return dict([[i.text_content() for i in j.xpath(".//td[not(@colspan)]")] for j in
             r.xpath(".//tr") if len(j) > 1 ])
-    
+
 def process_entry(l):
     full_link = "%s/new/evid_funkc/funkcioneri/%s" % (base, l)
     r = get_root(full_link)

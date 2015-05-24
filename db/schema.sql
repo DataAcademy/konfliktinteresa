@@ -18,7 +18,8 @@ create table report (
   report_year integer not null,
   report_link text not null,
   report_type_of_function text not null,
-  report_name text not null
+  report_name text not null,
+  unique(subject_id,report_name,report_year)
 );
 
 create table stanza (
@@ -67,4 +68,29 @@ create table job (
   monthly_salary_fixed int,
   foreign key(person_id) references person(person_id)
 );
-  
+
+create table company (
+    company_id integer primary key,
+    company_name text,
+    company_city, text,
+    unique(company_name,company_city)
+    );
+
+create table ownership (
+    company_id int,
+    person_id int,
+    year int,
+    shares text,
+    nominal_value text,
+    obtained_through text,
+    foreign key(person_id) references person(person_id),
+    foreign key(company_id) references company(company_id),
+    unique(company_id,person_id,year)
+    );
+
+create table unparsed_ownership (
+    person_id int,
+    ownership text,
+    year int,
+    foreign key(person_id) references person(person_id)
+    );
