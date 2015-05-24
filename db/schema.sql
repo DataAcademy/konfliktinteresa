@@ -60,7 +60,8 @@ create table person (
 
 create table job (
   job_id integer primary key,
-  job_name text not null,
+  report_year integer not null,
+  job_name text,
   person_id integer not null,
   monthly_salary text,
   monthly_salary_fixed int,
