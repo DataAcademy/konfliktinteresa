@@ -42,7 +42,8 @@ class InfoHeader(object):
     def __init__(self, json_obj):
         i = json_obj["info"]
         self.name = normalise_spaces(i["Ime i prezime funkcionera "]).title()
-        self.subject_id = re.match(".*?ID=(.*),.*?", json_obj["link"]).group(1)
+        # Find original IDs used in the database.
+        self.subject_id = re.match(".*?ID=(.*)&.*?", json_obj["link"]).group(1)
         self.report_year = i["Godina"]
         self.type_of_fn = i["Vrsta funkcionera"]
         self.report_name = i[u"Naziv izvje\u0161taja"]
