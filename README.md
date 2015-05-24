@@ -8,17 +8,29 @@ In addition, public official fill in their declarations _narratively_: for examp
 
 This project is an attempt to scrape and clean part of the information, to prove that a clean, well-defined database, content type definition and methodology would greatly improve the ability to anylse the information. This in turn would give researchers, journalists and the government itself power to make meaning out of this data, make more informed choices and better monitor corruption, nepotism and other irregularities.
 
-##Main output
-
-A .csv file containing the main information fields (defined below), scraped and cleaned, ready  
-
 ##Key questions for the project
 
 - How rich are public officials?
 - Which families are the most influential in Montenegro?
 - What loans do they have?
 
-##Key 
+##Main output
+
+We created a .csv file containing the main information fields (defined below), scraped and cleaned, ready for analysis.
+
+###Fields
+```TO BE COMPLETED```
+
+- Name
+- Function
+- Employer
+- Salary
+- Ownership of private companies
+
+##Links
+
+- Original website sample entry: [http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oz4-MjU-OCY6Pz43Ow,,&Godina=2014&Rbr=1](http://www.konfliktinteresa.me/new/evid_funkc/funkcioneri/EvidFunPrijavePrikaz.php?ID=Oz4-MjU-OCY6Pz43Ow,,&Godina=2014&Rbr=1)
+- SQL schema: in the doc/ subfolder
 
 ## Project parts
 
@@ -30,14 +42,14 @@ A .csv file containing the main information fields (defined below), scraped and 
 
 Since the data is already in the repo there is no need to run the scraper.
 
-1. Create the database 
+1) Create the database 
 
 
 ```
 db/generate_db
 ```
 
-2. Populate the Database
+2) Populate the Database
 
 ```
 bin/ingest
@@ -45,5 +57,5 @@ bin/ingest
 
 Have fun!
 
-You might want to check out the following [google
+The raw comments are in this [google
 doc](https://docs.google.com/document/d/1dQkW0dJyh2BMNrJS_DjPElNIVjy36ih8vpdOAi_fyBQ/edit#heading=h.l0ljwpnglhrp)
