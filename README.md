@@ -64,16 +64,15 @@ Check out all the field types in ```db/schema.sql```.
 
 ##Workflow
 
-The .csv files are already created: if you want to re-create the .csv files (because you perhaps want to change the fields that get pulled from the database), do the following: 
+The .csv files are already created: if you want to re-create the .csv files (because you perhaps want to change the fields that get pulled from the database), 
 
-```cd```
+```cd ```
 
-to the working directory. Then, run:
+to the working directory. Then, run
 
 ```sh bin/regenerate_db.sh```
 
-- creates the database
-- outputs lots of stuff
+This script creates the database on the fly (and outputs lots of stuff).
 
 Then, to create the CSV files, run: 
 
