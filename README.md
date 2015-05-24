@@ -1,9 +1,24 @@
-# Mapping conflicts of Interest in Montenegro
+# Mapping conflicts of interest in Montenegro
 
-Montenegro public officials report their conflict of interests yearly. The
-database lists a lot of information. The published reports do not allow any
-kind of analysis on the data contained. This is an attempt to create a
-database that supports the kind of analysis we plan to do.
+> This repository is a result of the [2015 POINT conference datathon](http://point.zastone.ba/en/data-academy-datathon/). The project is a continuation of the [Data Academy workshop in Podgorica](http://zastone.ba/en/da-training-in-montenegro-making-public-data-more-accessible/) in April 2015.
+
+Montenegro public officials self-declare their assets every year. The government website [konfliktinteresa.me](http://www.konfliktinteresa.me/new/index.php?lang=me) provides public access to these asset declarations: however, the information can be accessed only one declaration at a time, which makes it virtually impossible to do meaningful analysis of the information, like average salaries, or disaggregations by gender, age, political party etc. 
+
+In addition, public official fill in their declarations _narratively_: for example, there are no hard rules around how to insert salary information. This means public officials sometimes fill in the annual amount, and other times their monthly salaries, in text form. This loose structure of information makes it hard to analyse properly, because almost every asset declaration needs some amount of manual checking. 
+
+This project is an attempt to scrape and clean part of the information, to prove that a clean, well-defined database, content type definition and methodology would greatly improve the ability to anylse the information. This in turn would give researchers, journalists and the government itself power to make meaning out of this data, make more informed choices and better monitor corruption, nepotism and other irregularities.
+
+##Main output
+
+A .csv file containing the main information fields (defined below), scraped and cleaned, ready  
+
+##Key questions for the project
+
+- How rich are public officials?
+- Which families are the most influential in Montenegro?
+- What loans do they have?
+
+##Key 
 
 ## Project parts
 
