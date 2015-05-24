@@ -66,8 +66,8 @@ class Ownership():
         c = db.cursor()
         if not self.company:    
             c.execute("""INSERT INTO unparsed_ownership
-            (person_id,ownership) VALUES (?,?);""",
-                (self.person_id,self.o))
+            (person_id,ownership,year) VALUES (?,?,?);""",
+                (self.person_id,self.o,self.year))
             db.commit()
             return
         

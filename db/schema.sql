@@ -90,5 +90,6 @@ create table ownership (
 create table unparsed_ownership (
     person_id int,
     ownership text,
+    year int,
     foreign key(person_id) references person(person_id)
     );
