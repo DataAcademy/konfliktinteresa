@@ -8,7 +8,7 @@ sqlite3 ../db/report_contents.db << EOF
 .headers on
 .output ../data/raw/company-ownership.csv
 SELECT
-c.company_id,company_name,company_city,p.person_id,person_name,shares,nominal_value,obtained_through
+c.company_id,company_name,company_city,p.person_id,person_name,year,shares,nominal_value,obtained_through
 FROM ownership JOIN (SELECT person_name,person_id from person) AS p ON
 p.person_id = ownership.person_id JOIN (SELECT
 company_id,company_name,company_city FROM company) AS c ON c.company_id =
