@@ -59,18 +59,18 @@ We created **three .csv files** containing the main information fields (defined 
 
 Since the data is already in the repo there is no need to run the scraper.
 
-1) Create the database 
+##Workflow
 
+First, ```cd``` to the working directory.
 
-```
-db/generate_db
-```
+```sh bin/regenerate_db.sh```
 
-2) Populate the Database
+- creates the database
+- outputs lots of stuff
 
-```
-bin/ingest
-```
+Then, to create the CSV files: 
+
+```sh bin/export-tables.sh```
 
 Have fun!
 
