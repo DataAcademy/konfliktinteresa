@@ -8,7 +8,7 @@ def populate_person():
     c = db.cursor()
 
     sql_string = """INSERT INTO person (person_original_id,person_name) 
-                      SELECT subject_id,subject_name FROM report;
+                      SELECT distinct(subject_id),subject_name FROM report;
                  """
     c.execute(sql_string)
     db.commit()
