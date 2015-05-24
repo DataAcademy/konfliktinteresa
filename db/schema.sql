@@ -86,3 +86,9 @@ create table ownership (
     foreign key(company_id) references company(company_id),
     unique(company_id,person_id,year)
     );
+
+create table unparsed_ownership (
+    person_id int,
+    ownership text,
+    foreign key(person_id) references person(person_id)
+    );

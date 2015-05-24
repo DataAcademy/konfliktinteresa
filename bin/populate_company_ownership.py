@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding=utf-8
 
 import sqlite3
@@ -47,10 +47,11 @@ class Ownership():
             self.company.save()
         except ValueError as e:
             self.company = None
-            print "Could not Parse %s"%e
+            print ("Could not Parse %s"%e)
         self.person_id = v["person_id"]
         self.year = v["year"]
         self.dict = {}
+        self.o = o
         self.parse(o)
     
     def parse(self,o):
@@ -58,14 +59,17 @@ class Ownership():
         try:
             self.dict = dict([[i.strip() for i in j.split(":",2)] for j in values[2:]])
         except ValueError as e:
-            print "Could not Parse Ownership %s"%e
-        print self.dict
+            print ("Could not Parse Ownership %s"%e)
 
     def save(self):
-        if not self.company:    
-            return
         db = get_db_handle()
         c = db.cursor()
+        if not self.company:    
+            c.execute("""INSERT INTO unparsed_ownership
+            (person_id,ownership) VALUES (?,?);""",
+                (self.person_id,self.o))
+            db.commit()
+            return
         
         try:
             c.execute("""INSERT INTO ownership 
@@ -76,7 +80,7 @@ class Ownership():
                 self.dict.get("Prenos prava")))
             db.commit()
         except sqlite3.IntegrityError:
-            print "Relation already in DB"
+            print ("Relation already in DB")
 
     def __str__(self):
         if self.company:
@@ -103,11 +107,10 @@ def get_ownerships(db):
    
 def process_ownerships(o,db):
     companies = o["value"].split(";")
-    print o["person_id"],companies;
     for c in companies:
        osh = Ownership(c,o)
        osh.save()
-       print osh
+       print (osh)
 
 def run():
     db = get_db_handle()
