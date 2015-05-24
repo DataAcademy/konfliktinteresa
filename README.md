@@ -55,22 +55,33 @@ We created **three .csv files** containing the main information fields (defined 
 ```bin/ingest```  - A script to load the json data to the database
 ```db``` - the database files.
 
-## Bootstrapping
+##Bootstrapping
 
 Since the data is already in the repo there is no need to run the scraper.
 
+##The database
+Check out all the field types in ```db/schema.sql```.
+
 ##Workflow
 
-First, ```cd``` to the working directory.
+The .csv files are already created: if you want to re-create the .csv files (because you perhaps want to change the fields that get pulled from the database), do the following: 
+
+```cd``` 
+
+to the working directory. Then, run:
 
 ```sh bin/regenerate_db.sh```
 
 - creates the database
 - outputs lots of stuff
 
-Then, to create the CSV files: 
+Then, to create the CSV files, run: 
 
 ```sh bin/export-tables.sh```
+
+This will re-create the three .csv files inside
+
+```data/raw```
 
 Have fun!
 
